@@ -6,10 +6,10 @@ from pathlib import Path
 
 @dataclass
 class EmbeddingConfig:
-    model_name: str = "Alibaba-NLP/gte-large-en-v1.5"
+    model_name: str = "BAAI/bge-large-en-v1.5"
     device: str = "cuda"
     batch_size: int = 32
-    max_seq_length: int = 8192
+    max_seq_length: int = 512
     normalize_embeddings: bool = True
     dimension: int = 1024
 

@@ -1,9 +1,13 @@
 # Music Rights Document Classification System
 ## Implementation Plan
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Date:** April 12, 2026  
-**Project:** Embedding-based Document Classification Pipeline
+**Project:** Embedding-based Document Retrieval Classification Pipeline
+
+> **Important:** This is NOT an ML classification system. It uses **embedding-based retrieval** 
+> where documents are classified by finding the most similar training documents in vector space 
+> and aggregating their class labels. No model training occurs - only embedding generation and indexing.
 
 ---
 
@@ -148,23 +152,44 @@ Given the 64.5 GB training archive on Google Drive, we have three options:
 
 **Recommendation:** Start with **Option B (Batch Processing)** for development, with architecture supporting **Option C** for production.
 
-### 2.2 Training Data Structure (Expected)
+### 2.2 Training Data Structure (Confirmed)
+
+The training archive has a **fixed 6-level hierarchy** with class labels at level 6:
 
 ```
-trainData/
-├── class_label_1/
-│   ├── document1.pdf
-│   ├── document2.csv
+Fast/TrainData/RYLTY/Organizer/Statement/
+├── Believe Digital/
+│   ├── 1774531_141417_20191001_20191231.csv
+│   ├── 2021 - H1 GLADES Sales Export.csv.csv
 │   └── ...
-├── class_label_2/
-│   ├── document3.pdf
+├── The Orchard/
+│   ├── statement_2024_Q1.csv
 │   └── ...
-├── class_label_3/
+├── EMPIRE Distribution/
 │   └── ...
-└── ...
+├── Spotify Settlement/
+│   └── ...
+└── [55+ distributor/source classes]
 ```
 
-**Label Extraction Rule:** `class_label = parent_directory_name`
+**Directory Structure Breakdown:**
+| Level | Value | Description |
+|-------|-------|-------------|
+| 1 | `Fast` | Root container |
+| 2 | `TrainData` | Training data marker |
+| 3 | `RYLTY` | Application/system name |
+| 4 | `Organizer` | Module name |
+| 5 | `Statement` | Document category |
+| 6 | **CLASS LABEL** | Distributor/Source name |
+| 7 | Filename | Actual document |
+
+**Label Extraction Rule:** `class_label = path.split('/')[5]` (0-indexed: position 5 = level 6)
+
+**Confirmed Classes (55+ distributors/sources):**
+- Believe Digital, The Orchard, EMPIRE Distribution, Spotify Settlement
+- 4AD, 88rising, Create Music Group, LabelWorx, Monstercat Records
+- SESAC Publisher, STEMRA, PPL Artist, GMR Publisher, KODA Publisher
+- And many more...
 
 ### 2.3 Multi-Representation Strategy
 
@@ -639,12 +664,16 @@ PAYLOAD_SCHEMA = {
 
 | Model | Dimension | Use Case | Cost |
 |-------|-----------|----------|------|
-| `text-embedding-3-small` | 1536 | Primary dense embeddings | $0.02/1M tokens |
-| `text-embedding-3-large` | 3072 | High-quality fallback | $0.13/1M tokens |
-| `all-MiniLM-L6-v2` | 384 | Local/offline option | Free |
+| **`Alibaba-NLP/gte-large-en-v1.5`** | 1024 | **Primary (GPU, local)** | Free |
+| `nvidia/NV-Embed-v2` | 4096 | High-quality alternative | Free (compatibility issues) |
+| `text-embedding-3-small` | 1536 | API fallback | $0.02/1M tokens |
 | BM25 | Sparse | Keyword matching | Free |
 
-**Recommendation:** Start with `text-embedding-3-small` for cost-efficiency.
+**Current Setup:** Using `Alibaba-NLP/gte-large-en-v1.5` on RunPod GPU (RTX 4090).
+- 8192 token context window
+- 1024-dimensional embeddings
+- Excellent performance on retrieval benchmarks
+- No API costs or rate limits
 
 ### 5.2 Chunking Parameters
 

@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# Qdrant data
+qdrant_data/
+*.qdrant
+
+# Large files - keep in Google Drive
+holdout_datasets/
+training_data/
+*.tgz
+*.tar.gz
+*.zip
+
+# Model cache
+.cache/
+models/
+
+# Logs
+*.log
+logs/
+
+# Output files
+*.json
+!configs/*.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db

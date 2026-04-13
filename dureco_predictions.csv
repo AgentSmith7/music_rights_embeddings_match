@@ -1,0 +1,599 @@
+file_path,file_name,predicted_class,confidence,margin,is_uncertain,strategy
+DURECO/DURECO/SENA/SENA/Dureco/2020/2020-03/95504028.csv,95504028.csv,Sena Artist,0.7893,0.1252,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2020/2020-03/95504028/95504028.csv,95504028.csv,Sena Artist,0.7893,0.1252,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2020/2020-06/95518606.csv,95518606.csv,Sena Artist,0.7931,0.1284,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2020/2020-06/95518606/95518606.csv,95518606.csv,Sena Artist,0.7931,0.1284,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2020/2020-09/95524792.csv,95524792.csv,Sena Artist,0.7715,0.1080,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2020/2020-09/95524792/95524792.csv,95524792.csv,Sena Artist,0.7715,0.1080,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2020/2020-12/95533413.csv,95533413.csv,Sena Artist,0.7928,0.1288,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2020/2020-12/95533413/95533413.csv,95533413.csv,Sena Artist,0.7928,0.1288,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2021/2021-03/95542690.csv,95542690.csv,Sena Artist,0.7830,0.0880,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2021/2021-03/95542690/95542690.csv,95542690.csv,Sena Artist,0.7830,0.0880,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2021/2021-06/95547223.csv,95547223.csv,Sena Artist,0.7683,0.1057,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2021/2021-06/95547223/95547223.csv,95547223.csv,Sena Artist,0.7683,0.1057,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2021/2021-09/95590001.csv,95590001.csv,Sena Artist,0.7539,0.0637,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2021/2021-09/95590001/95590001.csv,95590001.csv,Sena Artist,0.7539,0.0637,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2021/2021-12/95598988.csv,95598988.csv,Sena Artist,0.7476,0.0636,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2021/2021-12/95598988/95598988.csv,95598988.csv,Sena Artist,0.7476,0.0636,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2022/2022-03/95623850.csv,95623850.csv,PRS Writer,0.7232,0.0132,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2022/2022-03/95623850/95623850.csv,95623850.csv,PRS Writer,0.7232,0.0132,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2022/2022-06/95632096.csv,95632096.csv,Sena Artist,0.7737,0.1056,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2022/2022-06/95632096/95632096.csv,95632096.csv,Sena Artist,0.7737,0.1056,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2022/2022-09/95643504.csv,95643504.csv,PRS Writer,0.7695,0.0743,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2022/2022-09/95643504/95643504.csv,95643504.csv,PRS Writer,0.7695,0.0743,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2022/2022-12/95655335.csv,95655335.csv,Sena Artist,0.7487,0.0633,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2022/2022-12/95655335/95655335.csv,95655335.csv,Sena Artist,0.7487,0.0633,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-03/95677064.csv,95677064.csv,Sena Artist,0.7823,0.1276,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-03/95677064.pdf,95677064.pdf,Sony Music Entertainment,0.6913,0.1050,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-03/95677064/95677064.csv,95677064.csv,Sena Artist,0.7823,0.1276,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-06/95692411.csv,95692411.csv,Sena Artist,0.7711,0.1045,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-06/95692411.pdf,95692411.pdf,Sony Music Entertainment,0.7043,0.1248,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-06/95692411/95692411.csv,95692411.csv,Sena Artist,0.7711,0.1045,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-09/95710662.csv,95710662.csv,Sena Artist,0.7789,0.0895,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-09/95710662.pdf,95710662.pdf,Sony Music Entertainment,0.6705,0.0880,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-09/95710662/95710662.csv,95710662.csv,Sena Artist,0.7789,0.0895,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-12/95715815.2214881.pdf,95715815.2214881.pdf,Sony Music Entertainment,0.6878,0.1051,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-12/95715815.csv,95715815.csv,Sena Artist,0.7480,0.0624,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2023/2023-12/95715815/95715815.csv,95715815.csv,Sena Artist,0.7480,0.0624,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-03/95746491.csv,95746491.csv,Sena Artist,0.7751,0.1087,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-03/95746491.pdf,95746491.pdf,Abramus Artist,0.6168,0.0328,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-03/95746491/95746491.csv,95746491.csv,Sena Artist,0.7751,0.1087,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-06/95752066.csv,95752066.csv,Sena Artist,0.7966,0.1296,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-06/95752066.pdf,95752066.pdf,Sony Music Entertainment,0.6027,0.0084,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-06/95752066/95752066.csv,95752066.csv,Sena Artist,0.7966,0.1296,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-06/95759335.csv,95759335.csv,Sena Artist,0.7166,0.0256,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-06/95759335.pdf,95759335.pdf,Sony Music Entertainment,0.6231,0.0099,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-06/95759335/95759335.csv,95759335.csv,Sena Artist,0.7166,0.0256,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-09/95767422.csv,95767422.csv,Sena Artist,0.7814,0.1283,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-09/95767422.pdf,95767422.pdf,Sony Music Entertainment,0.6887,0.1180,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-12/95797967.csv,95797967.csv,Sena Artist,0.8188,0.1709,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-12/95797967.pdf,95797967.pdf,Sony Music Entertainment,0.6444,0.0287,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2024/2024-12/SENA Curve file 2024-H2.xlsx,SENA Curve file 2024-H2.xlsx,TuneCore,0.7543,0.0343,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-03/95807435.csv,95807435.csv,Sena Artist,0.7766,0.1253,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-03/95807435.pdf,95807435.pdf,Sony Music Entertainment,0.6805,0.0788,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-03/95807435/95807435.csv,95807435.csv,Sena Artist,0.7766,0.1253,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-03/95807435_txt.txt,95807435_txt.txt,Warner Music Group Benelux,0.7229,0.0796,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-03/95807435_txt.xlsx,95807435_txt.xlsx,Sena Artist,0.7446,0.0025,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-06/95835484.csv,95835484.csv,Sena Artist,0.7969,0.1291,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-06/95835484.pdf,95835484.pdf,Warner Music Group Benelux,0.6461,0.0078,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-06/95835484/95835484.csv,95835484.csv,Sena Artist,0.7969,0.1291,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-06/95835484_txt.txt,95835484_txt.txt,Warner Music Group Benelux,0.7513,0.1007,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-06/95835484_txt.xlsx,95835484_txt.xlsx,Kollective Neighbouring Rights,0.8005,0.1470,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-06/SENA Curve file 2025-H1.xlsx,SENA Curve file 2025-H1.xlsx,TuneCore,0.7346,0.0148,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-09/95844525.csv,95844525.csv,Sena Artist,0.8193,0.1694,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-09/95844525.pdf,95844525.pdf,Warner Music Group Benelux,0.6290,0.0167,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-09/95844525/95844525.csv,95844525.csv,Sena Artist,0.8193,0.1694,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-09/updated_95844525.csv,updated_95844525.csv,Sena Artist,0.8257,0.1715,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-09/updated_95844525_14.02.2026.txt,updated_95844525_14.02.2026.txt,Warner Music Group Benelux,0.7173,0.1489,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-09/updated_95844525_14.02.2026.xlsx,updated_95844525_14.02.2026.xlsx,Kollective Neighbouring Rights,0.7328,0.0011,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-09/updated_95844525_txt.txt,updated_95844525_txt.txt,Warner Music Group Benelux,0.6825,0.0444,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-12/95880203.csv,95880203.csv,Sena Artist,0.7976,0.1314,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/2025-12/95880203.pdf,95880203.pdf,Kollective Neighbouring Rights,0.6079,0.0178,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco/2025/SENA Curve file 2025-H1 (Eric Boom).xlsx,SENA Curve file 2025-H1 (Eric Boom).xlsx,Platoon,0.8200,0.8200,False,primary
+DURECO/DURECO/SENA/SENA/Dureco/2025/SENA Curve file 2025-H2.xlsx,SENA Curve file 2025-H2.xlsx,Platoon,0.8216,0.1387,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2020/2020-03/95503856.csv,95503856.csv,Sena Artist,0.7812,0.0874,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2020/2020-03/95503856/95503856.csv,95503856.csv,Sena Artist,0.7812,0.0874,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2020/2020-06/95518428.csv,95518428.csv,Sena Artist,0.7686,0.1046,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2020/2020-06/95518428/95518428.csv,95518428.csv,Sena Artist,0.7686,0.1046,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2020/2020-09/95524636.csv,95524636.csv,Sena Artist,0.7489,0.0864,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2020/2020-09/95524636/95524636.csv,95524636.csv,Sena Artist,0.7489,0.0864,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2020/2020-12/95533272.csv,95533272.csv,Sena Artist,0.7915,0.1259,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2020/2020-12/95533272/95533272.csv,95533272.csv,Sena Artist,0.7915,0.1259,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2021/2021-03/95542546.csv,95542546.csv,Sena Artist,0.7731,0.0878,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2021/2021-03/95542546/95542546.csv,95542546.csv,Sena Artist,0.7731,0.0878,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2021/2021-06/95553200.csv,95553200.csv,Sena Artist,0.7694,0.1056,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2021/2021-06/95553200/95553200.csv,95553200.csv,Sena Artist,0.7694,0.1056,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2021/2021-09/95598836.csv,95598836.csv,Sena Artist,0.7715,0.1066,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2021/2021-09/95598836/95598836.csv,95598836.csv,Sena Artist,0.7715,0.1066,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2021/2021-12/95589868.csv,95589868.csv,PRS Writer,0.7675,0.0959,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2021/2021-12/95589868/95589868.csv,95589868.csv,PRS Writer,0.7675,0.0959,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2022/2022-03/95623635.csv,95623635.csv,Sena Artist,0.7718,0.1072,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2022/2022-03/95623635/95623635.csv,95623635.csv,Sena Artist,0.7718,0.1072,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2022/2022-06/95631932.csv,95631932.csv,Sena Artist,0.7701,0.1067,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2022/2022-06/95631932/95631932.csv,95631932.csv,Sena Artist,0.7701,0.1067,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2022/2022-09/95643357.csv,95643357.csv,Sena Artist,0.7989,0.1303,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2022/2022-09/95643357/95643357.csv,95643357.csv,Sena Artist,0.7989,0.1303,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2022/2022-12/95655169.csv,95655169.csv,Sena Artist,0.7744,0.1081,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2022/2022-12/95655169/95655169.csv,95655169.csv,Sena Artist,0.7744,0.1081,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-03/95676895.csv,95676895.csv,Sena Artist,0.7801,0.0871,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-03/95676895/95676895.csv,95676895.csv,Sena Artist,0.7801,0.0871,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-06/95692258.csv,95692258.csv,Sena Artist,0.7688,0.1031,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-06/95692258/95692258.csv,95692258.csv,Sena Artist,0.7688,0.1031,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-09/95710493.csv,95710493.csv,Sena Artist,0.7738,0.1061,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-09/95710493/95710493.csv,95710493.csv,Sena Artist,0.7738,0.1061,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-12/95715625 - Classics 2023 Q4.csv,95715625 - Classics 2023 Q4.csv,Sena Artist,0.7513,0.0651,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-12/95715625.2214866.pdf,95715625.2214866.pdf,Sony Music Entertainment,0.7077,0.1061,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2023/2023-12/95715625/95715625.csv,95715625.csv,Sena Artist,0.7513,0.0651,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2024/2024-03/95746341.csv,95746341.csv,Sena Artist,0.8288,0.1728,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2024/2024-03/95746341.pdf,95746341.pdf,Sony Music Entertainment,0.6223,0.0207,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2024/2024-03/95746341/95746341.csv,95746341.csv,Sena Artist,0.8288,0.1728,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2024/2024-06/95759169.csv,95759169.csv,Sena Artist,0.7093,0.0233,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2024/2024-06/95759169/95759169.csv,95759169.csv,Sena Artist,0.7093,0.0233,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2024/2024-09/95767244.csv,95767244.csv,Sena Artist,0.8186,0.1709,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2024/2024-12/95797785.csv,95797785.csv,Sena Artist,0.7976,0.1293,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-03/95807286.csv,95807286.csv,Sena Artist,0.8206,0.1719,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-03/95807286.pdf,95807286.pdf,Sony Music Entertainment,0.6731,0.0612,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-03/95807286.xlsx,95807286.xlsx,Kollective Neighbouring Rights,0.7708,0.0450,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-03/95807286/95807286.csv,95807286.csv,Sena Artist,0.8206,0.1719,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-06/95835303.csv,95835303.csv,Sena Artist,0.7934,0.1492,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-06/95835303.pdf,95835303.pdf,Sony Music Entertainment,0.6735,0.0474,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-06/95835303/95835303.csv,95835303.csv,Sena Artist,0.7934,0.1492,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-09/95844350.csv,95844350.csv,Sena Artist,0.8282,0.1718,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-09/95844350.pdf,95844350.pdf,Curve Label,0.6125,0.0041,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-09/95844350/95844350.csv,95844350.csv,Sena Artist,0.8282,0.1718,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-12/95880039.csv,95880039.csv,Sena Artist,0.7747,0.1068,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-12/95880039.pdf,95880039.pdf,Curve Label,0.6047,0.0055,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-12/95880039/95880039.csv,95880039.csv,Sena Artist,0.7747,0.1068,False,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-12/updated_95844350.csv,updated_95844350.csv,Sena Artist,0.8045,0.8045,False,primary
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-12/updated_95844350_txt.txt,updated_95844350_txt.txt,Kobalt Music Publishing,0.6074,0.0024,True,fallback
+DURECO/DURECO/SENA/SENA/Dureco classics/2025/2025-12/updated_95844350_txt.xlsx,updated_95844350_txt.xlsx,Kollective Neighbouring Rights,0.7338,0.0413,True,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 01-2018.csv,Label Playlog report Te Deum - 01-2018.csv,Downtown Artist & Label Services,0.8435,0.1588,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 01-2019.csv,Label Playlog report Te Deum - 01-2019.csv,Downtown Artist & Label Services,0.8444,0.1568,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 01-2020.csv,Label Playlog report Te Deum - 01-2020.csv,Downtown Artist & Label Services,0.8223,0.1378,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 01-2021.csv,Label Playlog report Te Deum - 01-2021.csv,Downtown Artist & Label Services,0.8039,0.0775,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 01-2022.csv,Label Playlog report Te Deum - 01-2022.csv,Downtown Artist & Label Services,0.8567,0.1603,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 01-2023.csv,Label Playlog report Te Deum - 01-2023.csv,Downtown Artist & Label Services,0.8558,0.1606,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 01-2024.csv,Label Playlog report Te Deum - 01-2024.csv,Downtown Artist & Label Services,0.8551,0.1614,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 02-2018.csv,Label Playlog report Te Deum - 02-2018.csv,Downtown Artist & Label Services,0.8434,0.1572,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 02-2019.csv,Label Playlog report Te Deum - 02-2019.csv,Downtown Artist & Label Services,0.8439,0.1575,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 02-2020.csv,Label Playlog report Te Deum - 02-2020.csv,Downtown Artist & Label Services,0.8422,0.1576,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 02-2021.csv,Label Playlog report Te Deum - 02-2021.csv,Downtown Artist & Label Services,0.8243,0.1180,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 02-2022.csv,Label Playlog report Te Deum - 02-2022.csv,Downtown Artist & Label Services,0.8553,0.1600,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 02-2023.csv,Label Playlog report Te Deum - 02-2023.csv,Downtown Artist & Label Services,0.8563,0.1617,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 02-2024.csv,Label Playlog report Te Deum - 02-2024.csv,Downtown Artist & Label Services,0.8335,0.1408,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 03-2018.csv,Label Playlog report Te Deum - 03-2018.csv,Downtown Artist & Label Services,0.8439,0.1579,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 03-2019.csv,Label Playlog report Te Deum - 03-2019.csv,Downtown Artist & Label Services,0.8452,0.1579,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 03-2020.csv,Label Playlog report Te Deum - 03-2020.csv,Downtown Artist & Label Services,0.8049,0.0772,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 03-2021.csv,Label Playlog report Te Deum - 03-2021.csv,Downtown Artist & Label Services,0.8472,0.1613,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 03-2022.csv,Label Playlog report Te Deum - 03-2022.csv,Downtown Artist & Label Services,0.8338,0.1405,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 03-2023.csv,Label Playlog report Te Deum - 03-2023.csv,Downtown Artist & Label Services,0.8560,0.1594,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 03-2024.csv,Label Playlog report Te Deum - 03-2024.csv,Downtown Artist & Label Services,0.8551,0.1614,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 04-2018.csv,Label Playlog report Te Deum - 04-2018.csv,Downtown Artist & Label Services,0.8448,0.1580,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 04-2019.csv,Label Playlog report Te Deum - 04-2019.csv,Downtown Artist & Label Services,0.7628,0.0369,True,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 04-2020.csv,Label Playlog report Te Deum - 04-2020.csv,Downtown Artist & Label Services,0.8422,0.1581,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 04-2021.csv,Label Playlog report Te Deum - 04-2021.csv,Downtown Artist & Label Services,0.8551,0.1621,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 04-2022.csv,Label Playlog report Te Deum - 04-2022.csv,Downtown Artist & Label Services,0.8551,0.1615,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 04-2023.csv,Label Playlog report Te Deum - 04-2023.csv,Downtown Artist & Label Services,0.8425,0.8425,False,primary
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 04-2024.csv,Label Playlog report Te Deum - 04-2024.csv,Downtown Artist & Label Services,0.8360,0.1409,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 05-2018.csv,Label Playlog report Te Deum - 05-2018.csv,Downtown Artist & Label Services,0.8449,0.1575,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 05-2019.csv,Label Playlog report Te Deum - 05-2019.csv,Downtown Artist & Label Services,0.8435,0.1584,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 05-2020.csv,Label Playlog report Te Deum - 05-2020.csv,Downtown Artist & Label Services,0.8438,0.1582,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 05-2021.csv,Label Playlog report Te Deum - 05-2021.csv,Downtown Artist & Label Services,0.8343,0.1404,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 05-2022.csv,Label Playlog report Te Deum - 05-2022.csv,Downtown Artist & Label Services,0.8437,0.8437,False,primary
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 05-2023.csv,Label Playlog report Te Deum - 05-2023.csv,Downtown Artist & Label Services,0.8537,0.1599,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 05-2024.csv,Label Playlog report Te Deum - 05-2024.csv,Downtown Artist & Label Services,0.8553,0.1610,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 06-2018.csv,Label Playlog report Te Deum - 06-2018.csv,Downtown Artist & Label Services,0.8436,0.1585,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 06-2019.csv,Label Playlog report Te Deum - 06-2019.csv,Downtown Artist & Label Services,0.8444,0.1585,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 06-2021.csv,Label Playlog report Te Deum - 06-2021.csv,Downtown Artist & Label Services,0.8543,0.1605,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 06-2022.csv,Label Playlog report Te Deum - 06-2022.csv,Downtown Artist & Label Services,0.8567,0.1605,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 06-2023.csv,Label Playlog report Te Deum - 06-2023.csv,Downtown Artist & Label Services,0.8548,0.1625,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 06-2024.csv,Label Playlog report Te Deum - 06-2024.csv,Downtown Artist & Label Services,0.8297,0.8297,False,primary
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 07-2017.csv,Label Playlog report Te Deum - 07-2017.csv,Downtown Artist & Label Services,0.7816,0.0370,True,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 07-2018.csv,Label Playlog report Te Deum - 07-2018.csv,Downtown Artist & Label Services,0.8454,0.1576,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 07-2019.csv,Label Playlog report Te Deum - 07-2019.csv,Downtown Artist & Label Services,0.8019,0.1190,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 07-2021.csv,Label Playlog report Te Deum - 07-2021.csv,Downtown Artist & Label Services,0.8543,0.1607,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 07-2022.csv,Label Playlog report Te Deum - 07-2022.csv,Downtown Artist & Label Services,0.8549,0.1606,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 07-2023.csv,Label Playlog report Te Deum - 07-2023.csv,Downtown Artist & Label Services,0.8542,0.1593,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 07-2024.csv,Label Playlog report Te Deum - 07-2024.csv,Downtown Artist & Label Services,0.8337,0.8337,False,primary
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 08-2017.csv,Label Playlog report Te Deum - 08-2017.csv,Downtown Artist & Label Services,0.8430,0.1581,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 08-2018.csv,Label Playlog report Te Deum - 08-2018.csv,Downtown Artist & Label Services,0.8441,0.1585,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 08-2019.csv,Label Playlog report Te Deum - 08-2019.csv,Downtown Artist & Label Services,0.8024,0.0773,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 08-2021.csv,Label Playlog report Te Deum - 08-2021.csv,Downtown Artist & Label Services,0.8517,0.1601,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 08-2022.csv,Label Playlog report Te Deum - 08-2022.csv,Downtown Artist & Label Services,0.8544,0.1619,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 08-2023.csv,Label Playlog report Te Deum - 08-2023.csv,Downtown Artist & Label Services,0.8551,0.1601,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 08-2024.csv,Label Playlog report Te Deum - 08-2024.csv,Downtown Artist & Label Services,0.8316,0.8316,False,primary
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 09-2017.csv,Label Playlog report Te Deum - 09-2017.csv,Downtown Artist & Label Services,0.8046,0.1008,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 09-2018.csv,Label Playlog report Te Deum - 09-2018.csv,Downtown Artist & Label Services,0.8447,0.1582,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 09-2019.csv,Label Playlog report Te Deum - 09-2019.csv,Downtown Artist & Label Services,0.8005,0.0984,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 09-2020.csv,Label Playlog report Te Deum - 09-2020.csv,Downtown Artist & Label Services,0.8245,0.1171,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 09-2021.csv,Label Playlog report Te Deum - 09-2021.csv,Downtown Artist & Label Services,0.8544,0.1611,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 09-2022.csv,Label Playlog report Te Deum - 09-2022.csv,Downtown Artist & Label Services,0.8441,0.8441,False,primary
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 09-2023.csv,Label Playlog report Te Deum - 09-2023.csv,Downtown Artist & Label Services,0.8355,0.1408,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 09-2024.csv,Label Playlog report Te Deum - 09-2024.csv,Downtown Artist & Label Services,0.8303,0.8303,False,primary
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 10-2017.csv,Label Playlog report Te Deum - 10-2017.csv,Downtown Artist & Label Services,0.8453,0.1587,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 10-2018.csv,Label Playlog report Te Deum - 10-2018.csv,Downtown Artist & Label Services,0.8443,0.1578,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 10-2019.csv,Label Playlog report Te Deum - 10-2019.csv,Downtown Artist & Label Services,0.8231,0.1173,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 10-2020.csv,Label Playlog report Te Deum - 10-2020.csv,Downtown Artist & Label Services,0.8452,0.1585,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 10-2021.csv,Label Playlog report Te Deum - 10-2021.csv,Downtown Artist & Label Services,0.8562,0.1612,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 10-2022.csv,Label Playlog report Te Deum - 10-2022.csv,Downtown Artist & Label Services,0.8555,0.1609,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 10-2023.csv,Label Playlog report Te Deum - 10-2023.csv,Downtown Artist & Label Services,0.8561,0.1608,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 10-2024.csv,Label Playlog report Te Deum - 10-2024.csv,Downtown Artist & Label Services,0.8277,0.8277,False,primary
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 11-2017.csv,Label Playlog report Te Deum - 11-2017.csv,Downtown Artist & Label Services,0.7825,0.0367,True,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 11-2018.csv,Label Playlog report Te Deum - 11-2018.csv,Downtown Artist & Label Services,0.8425,0.1582,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 11-2019.csv,Label Playlog report Te Deum - 11-2019.csv,Downtown Artist & Label Services,0.7622,0.0172,True,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 11-2020.csv,Label Playlog report Te Deum - 11-2020.csv,Downtown Artist & Label Services,0.8429,0.1581,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 11-2021.csv,Label Playlog report Te Deum - 11-2021.csv,Downtown Artist & Label Services,0.8536,0.1599,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 11-2022.csv,Label Playlog report Te Deum - 11-2022.csv,Downtown Artist & Label Services,0.8335,0.1403,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 11-2023.csv,Label Playlog report Te Deum - 11-2023.csv,Downtown Artist & Label Services,0.8350,0.1422,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 12-2017.csv,Label Playlog report Te Deum - 12-2017.csv,Downtown Artist & Label Services,0.8027,0.0774,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 12-2018.csv,Label Playlog report Te Deum - 12-2018.csv,Downtown Artist & Label Services,0.8434,0.1567,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 12-2019.csv,Label Playlog report Te Deum - 12-2019.csv,Downtown Artist & Label Services,0.8439,0.1582,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 12-2020.csv,Label Playlog report Te Deum - 12-2020.csv,Downtown Artist & Label Services,0.7839,0.0773,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 12-2021.csv,Label Playlog report Te Deum - 12-2021.csv,Downtown Artist & Label Services,0.8344,0.1421,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 12-2022.csv,Label Playlog report Te Deum - 12-2022.csv,Downtown Artist & Label Services,0.8344,0.1408,False,fallback
+DURECO/DURECO/FamilyStream/FamilyStream/2024/2024-12/Label Playlog report Te Deum - 12-2023.csv,Label Playlog report Te Deum - 12-2023.csv,Downtown Artist & Label Services,0.8350,0.1415,False,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38068_Dureco_B.V.2023-10/38068_Dureco_B.V.2023-10_downloads.csv,38068_Dureco_B.V.2023-10_downloads.csv,Concord Records,0.7217,0.0057,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38068_Dureco_B.V.2023-10/38068_Dureco_B.V.2023-10_streams.csv,38068_Dureco_B.V.2023-10_streams.csv,Concord Records,0.7176,0.0078,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38068_Dureco_B.V.2023-10_downloads.csv,38068_Dureco_B.V.2023-10_downloads.csv,Concord Records,0.7217,0.0057,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38068_Dureco_B.V.2023-10_streams.csv,38068_Dureco_B.V.2023-10_streams.csv,Concord Records,0.7176,0.0078,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38422_Dureco_B.V.2023-11/38422_Dureco_B.V.2023-11_downloads.csv,38422_Dureco_B.V.2023-11_downloads.csv,Platoon,0.7369,0.0154,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38422_Dureco_B.V.2023-11/38422_Dureco_B.V.2023-11_streams.csv,38422_Dureco_B.V.2023-11_streams.csv,Concord Records,0.7231,0.0066,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38422_Dureco_B.V.2023-11_downloads.csv,38422_Dureco_B.V.2023-11_downloads.csv,Platoon,0.7369,0.0154,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38422_Dureco_B.V.2023-11_streams.csv,38422_Dureco_B.V.2023-11_streams.csv,Concord Records,0.7231,0.0066,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38776_Dureco_B.V.2023-12/38776_Dureco_B.V.2023-12_downloads.csv,38776_Dureco_B.V.2023-12_downloads.csv,Concord Records,0.7212,0.0054,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38776_Dureco_B.V.2023-12/38776_Dureco_B.V.2023-12_streams.csv,38776_Dureco_B.V.2023-12_streams.csv,Platoon,0.7360,0.0151,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38776_Dureco_B.V.2023-12_downloads.csv,38776_Dureco_B.V.2023-12_downloads.csv,Concord Records,0.7212,0.0054,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/38776_Dureco_B.V.2023-12_streams.csv,38776_Dureco_B.V.2023-12_streams.csv,Platoon,0.7360,0.0151,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/9453-DIG-ROB5866.pdf,9453-DIG-ROB5866.pdf,Curve Label,0.6244,0.0027,True,fallback
+DURECO/DURECO/ROBA/ROBA/2023/Roba Summary.xlsx,Roba Summary.xlsx,Universal Music Group,0.7288,0.0205,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/DURECO - 4019000 011032_Modèle_facture_2023_05.pdf,DURECO - 4019000 011032_Modèle_facture_2023_05.pdf,Sony Music Entertainment,0.7137,0.1095,False,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/DURECO - 4019000 011032_Modèle_RCP_2023_05.pdf,DURECO - 4019000 011032_Modèle_RCP_2023_05.pdf,Sony Music Entertainment,0.6599,0.0608,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/DURECO STRENGHOLT-L11_Détail_2023_05.pdf,DURECO STRENGHOLT-L11_Détail_2023_05.pdf,Warner Music Group,0.6932,0.0723,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/DURECO STRENGHOLT-L11_Récapitulatif_2023_05.pdf,DURECO STRENGHOLT-L11_Récapitulatif_2023_05.pdf,Abramus Artist,0.6393,0.0059,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/Extrait_de_compte_011032     DURECO_2023_05.pdf,Extrait_de_compte_011032     DURECO_2023_05.pdf,Adami,0.5779,0.0113,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/Facture FG SPPF 4019000 011032_2023_05.pdf,Facture FG SPPF 4019000 011032_2023_05.pdf,PRS Writer,0.7270,0.1608,False,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/Frais_de_gestion_SPPF_Copie_Privée.xlsx,Frais_de_gestion_SPPF_Copie_Privée.xlsx,Warner Chappell,0.7207,0.0405,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/SPPF_AD_read_me.pdf,SPPF_AD_read_me.pdf,PRS Writer,0.6970,0.0619,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-05/SPPF_Droits_2023_05_compte_4019000_011032.xlsx,SPPF_Droits_2023_05_compte_4019000_011032.xlsx,Warner Chappell,0.7808,0.1177,False,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/DURECO - 4019000 011032_Modèle_facture_2023_11.pdf,DURECO - 4019000 011032_Modèle_facture_2023_11.pdf,Sony Music Entertainment,0.7486,0.1688,False,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/DURECO - 4019000 011032_Modèle_RCP_2023_11.pdf,DURECO - 4019000 011032_Modèle_RCP_2023_11.pdf,Sony Music Entertainment,0.6586,0.0619,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/DURECO STRENGHOLT-L11_Détail_2023_11.pdf,DURECO STRENGHOLT-L11_Détail_2023_11.pdf,Warner Music Group,0.7058,0.0946,False,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/DURECO STRENGHOLT-L11_Récapitulatif_2023_11.pdf,DURECO STRENGHOLT-L11_Récapitulatif_2023_11.pdf,Abramus Artist,0.6378,0.0094,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/Extrait_de_compte_011032     DURECO_2023_11.pdf,Extrait_de_compte_011032     DURECO_2023_11.pdf,Warner Music Group,0.5870,0.0102,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/Facture FG SPPF 4019000 011032_2023_11.pdf,Facture FG SPPF 4019000 011032_2023_11.pdf,PRS Writer,0.7349,0.1568,False,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/Frais_de_gestion_SPPF_Copie_Privée.xlsx,Frais_de_gestion_SPPF_Copie_Privée.xlsx,Warner Chappell,0.7207,0.0405,True,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/SPPF_AD_read_me.pdf,SPPF_AD_read_me.pdf,PRS Writer,0.7707,0.1595,False,fallback
+DURECO/DURECO/SPPF/SPPF/2023-11/SPPF_Droits_2023_11_compte_4019000_011032.xlsx,SPPF_Droits_2023_11_compte_4019000_011032.xlsx,Warner Chappell,0.7808,0.1177,False,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/DURECO - 4019000 011032_Modèle_facture_2024_05.pdf,DURECO - 4019000 011032_Modèle_facture_2024_05.pdf,Sony Music Entertainment,0.7124,0.1096,False,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/DURECO - 4019000 011032_Modèle_RCP_2024_05.pdf,DURECO - 4019000 011032_Modèle_RCP_2024_05.pdf,Sony Music Entertainment,0.6589,0.0612,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/DURECO STRENGHOLT-L11_Détail_2024_05.pdf,DURECO STRENGHOLT-L11_Détail_2024_05.pdf,Warner Music Group,0.7085,0.0899,False,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/DURECO STRENGHOLT-L11_Récapitulatif_2024_05.pdf,DURECO STRENGHOLT-L11_Récapitulatif_2024_05.pdf,Adami,0.6310,0.0116,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/Extrait_de_compte_011032     DURECO_2024_05.pdf,Extrait_de_compte_011032     DURECO_2024_05.pdf,Adami,0.6022,0.0380,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/Facture FG SPPF 4019000 011032_2024_05.pdf,Facture FG SPPF 4019000 011032_2024_05.pdf,PRS Writer,0.7275,0.1632,False,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/Frais_de_gestion_SPPF_Copie_Privée.xlsx,Frais_de_gestion_SPPF_Copie_Privée.xlsx,Warner Chappell,0.7207,0.0405,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/SPPF_AD_read_me.pdf,SPPF_AD_read_me.pdf,PRS Writer,0.6544,0.0179,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-05/SPPF_Droits_2024_05_compte_4019000_011032.xlsx,SPPF_Droits_2024_05_compte_4019000_011032.xlsx,Warner Chappell,0.7808,0.1177,False,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/DURECO - 4019000 011032_Modèle_facture_2024_11.pdf,DURECO - 4019000 011032_Modèle_facture_2024_11.pdf,Sony Music Entertainment,0.6675,0.0283,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/DURECO - 4019000 011032_Modèle_RCP_2024_11.pdf,DURECO - 4019000 011032_Modèle_RCP_2024_11.pdf,Sony Music Entertainment,0.6615,0.0611,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/DURECO STRENGHOLT-L11_Détail_2024_11.pdf,DURECO STRENGHOLT-L11_Détail_2024_11.pdf,Warner Music Group,0.7261,0.1144,False,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/DURECO STRENGHOLT-L11_Récapitulatif_2024_11.pdf,DURECO STRENGHOLT-L11_Récapitulatif_2024_11.pdf,Abramus Artist,0.6526,0.0333,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/Extrait_de_compte_011032     DURECO_2024_11.pdf,Extrait_de_compte_011032     DURECO_2024_11.pdf,Adami,0.5984,0.0369,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/Facture FG SPPF 4019000 011032_2024_11.pdf,Facture FG SPPF 4019000 011032_2024_11.pdf,Sony Music Entertainment,0.6517,0.0206,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/Frais_de_gestion_SPPF_Copie_Privée.xlsx,Frais_de_gestion_SPPF_Copie_Privée.xlsx,Warner Chappell,0.7207,0.0405,True,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/SPPF_AD_read_me.pdf,SPPF_AD_read_me.pdf,PRS Writer,0.7397,0.1367,False,fallback
+DURECO/DURECO/SPPF/SPPF/2024-11/SPPF_Droits_2024_11_compte_4019000_011032.xlsx,SPPF_Droits_2024_11_compte_4019000_011032.xlsx,Warner Chappell,0.7808,0.1177,False,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/DURECO - 4019000 011032_Modèle_facture_2025_05.pdf,DURECO - 4019000 011032_Modèle_facture_2025_05.pdf,Sony Music Entertainment,0.6931,0.0699,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/DURECO - 4019000 011032_Modèle_RCP_2025_05.pdf,DURECO - 4019000 011032_Modèle_RCP_2025_05.pdf,Sony Music Entertainment,0.6603,0.0613,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/DURECO STRENGHOLT-L11_Détail_2025_05.pdf,DURECO STRENGHOLT-L11_Détail_2025_05.pdf,Warner Music Group,0.6876,0.0450,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/DURECO STRENGHOLT-L11_Récapitulatif_2025_05.pdf,DURECO STRENGHOLT-L11_Récapitulatif_2025_05.pdf,Adami,0.6236,0.0018,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/Extrait_de_compte_011032     DURECO_2025_05.pdf,Extrait_de_compte_011032     DURECO_2025_05.pdf,Adami,0.5988,0.0370,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/Facture FG SPPF 4019000 011032_2025_05.pdf,Facture FG SPPF 4019000 011032_2025_05.pdf,PRS Writer,0.7048,0.1406,False,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/Frais_de_gestion_SPPF_Copie_Privée.xlsx,Frais_de_gestion_SPPF_Copie_Privée.xlsx,Warner Chappell,0.7207,0.0405,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/SPPF_AD_read_me.pdf,SPPF_AD_read_me.pdf,PRS Writer,0.6756,0.0389,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-05/SPPF_Droits_2025_05_compte_4019000_011032.xlsx,SPPF_Droits_2025_05_compte_4019000_011032.xlsx,Warner Chappell,0.7808,0.1177,False,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/DURECO - 4019000 011032_Modèle_facture_2025_11.pdf,DURECO - 4019000 011032_Modèle_facture_2025_11.pdf,Sony Music Entertainment,0.6946,0.1007,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/DURECO - 4019000 011032_Modèle_RCP_2025_11.pdf,DURECO - 4019000 011032_Modèle_RCP_2025_11.pdf,Sony Music Entertainment,0.7196,0.1649,False,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/DURECO STRENGHOLT-L11_Détail_2025_11.pdf,DURECO STRENGHOLT-L11_Détail_2025_11.pdf,Warner Music Group,0.7236,0.1141,False,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/DURECO STRENGHOLT-L11_Récapitulatif_2025_11.pdf,DURECO STRENGHOLT-L11_Récapitulatif_2025_11.pdf,Adami,0.6331,0.0013,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/Extrait_de_compte_011032     DURECO_2025_11.pdf,Extrait_de_compte_011032     DURECO_2025_11.pdf,Adami,0.5803,0.0118,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/Facture FG SPPF 4019000 011032_2025_11.pdf,Facture FG SPPF 4019000 011032_2025_11.pdf,PRS Writer,0.7305,0.1563,False,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/Frais_de_gestion_SPPF_Copie_Privée.xlsx,Frais_de_gestion_SPPF_Copie_Privée.xlsx,Warner Chappell,0.7207,0.0405,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/SPPF_AD_read_me.pdf,SPPF_AD_read_me.pdf,PRS Writer,0.6927,0.0614,True,fallback
+DURECO/DURECO/SPPF/SPPF/2025-11/SPPF_Droits_2025_11_compte_4019000_011032.xlsx,SPPF_Droits_2025_11_compte_4019000_011032.xlsx,Warner Chappell,0.7808,0.1177,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco  Digidance (iTunes).csv,2023 - H1 Dureco  Digidance (iTunes).csv,Platoon,0.8385,0.8385,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco  L-Downl.Only DS80.csv,2023 - H1 Dureco  L-Downl.Only DS80.csv,Platoon,0.8173,0.0823,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco  L-N20Net-C20Net-S20Net.csv,2023 - H1 Dureco  L-N20Net-C20Net-S20Net.csv,Platoon,0.8537,0.1636,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco  L-N22Net-C22Net-S22Net.csv,2023 - H1 Dureco  L-N22Net-C22Net-S22Net.csv,Platoon,0.8306,0.1229,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco  L-N22Net-C22Net-SxNet-F100.csv,2023 - H1 Dureco  L-N22Net-C22Net-SxNet-F100.csv,Platoon,0.8439,0.8439,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco  L-N22Net-C22Net-SxNet-F75.csv,2023 - H1 Dureco  L-N22Net-C22Net-SxNet-F75.csv,Platoon,0.8158,0.0815,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco  L-N22PPD-C22Net-S22Net-F100.csv,2023 - H1 Dureco  L-N22PPD-C22Net-S22Net-F100.csv,Platoon,0.8431,0.8431,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016)  M20016.csv,2023 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016)  M20016.csv,Platoon,0.8143,0.0819,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Cloud 9 Music/2023 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016).csv,2023 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016).csv,Platoon,0.8431,0.1246,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2023-12/Dureco Licentie overzicht 2023-12.xlsx,Dureco Licentie overzicht 2023-12.xlsx,Sony Music Publishing,0.7822,0.0935,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Bongo/CTM Outlander Music LP - Nico  NICO - 2H23 .pdf,CTM Outlander Music LP - Nico  NICO - 2H23 .pdf,BMG Publisher,0.7543,0.1443,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Celeste/1812B244.pdf,1812B244.pdf,Sony Music Entertainment,0.6903,0.0648,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco  Digidance (iTunes).csv,2023 - H2 Dureco  Digidance (iTunes).csv,Platoon,0.8542,0.1635,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco  L-Downl.Only.csv,2023 - H2 Dureco  L-Downl.Only.csv,Platoon,0.8358,0.1233,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco  L-N20Net-C20Net-S20Net.csv,2023 - H2 Dureco  L-N20Net-C20Net-S20Net.csv,Platoon,0.8541,0.1633,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco  L-N22Net-C22Net-S22Net.csv,2023 - H2 Dureco  L-N22Net-C22Net-S22Net.csv,Platoon,0.8595,0.1641,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco  L-N22Net-C22Net-SxNet-F100.csv,2023 - H2 Dureco  L-N22Net-C22Net-SxNet-F100.csv,Platoon,0.8179,0.0819,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco  L-N22Net-C22Net-SxNet-F75.csv,2023 - H2 Dureco  L-N22Net-C22Net-SxNet-F75.csv,Platoon,0.8153,0.0823,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco  L-N22PPD-C22Net-S22Net-F100.csv,2023 - H2 Dureco  L-N22PPD-C22Net-S22Net-F100.csv,Platoon,0.8613,0.1645,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016).csv,2023 - H2 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016).csv,Platoon,0.8200,0.0830,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Cloud 9 Music/2023 - H2 Dureco Backcatalogue.csv,2023 - H2 Dureco Backcatalogue.csv,Platoon,0.8163,0.0821,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Dureco Licentie overzicht 2024-06.xlsx,Dureco Licentie overzicht 2024-06.xlsx,Sony Music Publishing,0.7822,0.0935,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Filmservice/R-70062-2023-2.pdf,R-70062-2023-2.pdf,Sony Music Entertainment,0.7863,0.1746,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Filmservice/statements_70062_R-70062-2023-2.xls,statements_70062_R-70062-2023-2.xls,Universal Music Group,0.7229,0.0338,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Incidentiële licenties/DURECO - Licentieinkomsten + Sync (2024-H1).xlsx,DURECO - Licentieinkomsten + Sync (2024-H1).xlsx,Platoon,0.8491,0.1621,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Incidentiële licenties/Dureco-Mooifeessie_-_Engelbewaarder.pdf,Dureco-Mooifeessie_-_Engelbewaarder.pdf,Sony Music Entertainment,0.6295,0.0155,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Incidentiële licenties/Mooifeessie  - 3 vinyl singles.pdf,Mooifeessie  - 3 vinyl singles.pdf,PARSE_ERROR,0.0000,0.0000,True,none
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Red Bullet/2023 - H1 STARS ON 45 - STARS ON STEVIE (TONY SHERMAN) (Strengholt Classics B.V.) Sales Export.csv,2023 - H1 STARS ON 45 - STARS ON STEVIE (TONY SHERMAN) (Strengholt Classics B.V.) Sales Export.csv,Platoon,0.8545,0.8545,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Red Bullet/2023 - H1 STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,2023 - H1 STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,Platoon,0.8506,0.1389,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Red Bullet/2023 - H2 STARS ON 45 - STARS ON STEVIE (TONY SHERMAN) (Strengholt Classics B.V.) Sales Export.csv,2023 - H2 STARS ON 45 - STARS ON STEVIE (TONY SHERMAN) (Strengholt Classics B.V.) Sales Export.csv,Platoon,0.8684,0.1643,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Red Bullet/2023 - H2 STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,2023 - H2 STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,Platoon,0.8542,0.1402,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Sony NL/statement-details-export-02-04-2024110130 (1).xlsx,statement-details-export-02-04-2024110130 (1).xlsx,Sony Music Entertainment,0.8806,0.8806,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Sony NL/statement-details-export-02-04-2024110130.xlsx,statement-details-export-02-04-2024110130.xlsx,Sony Music Entertainment,0.8763,0.8763,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Sony NL/SUM_0605_20231231_0004034988_0000535108.pdf,SUM_0605_20231231_0004034988_0000535108.pdf,Sony Music Entertainment,0.8229,0.8229,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal België/DetailedStatements_13_nl_02042024130959/DS_2023Q3_BE601237_0000190600_3299228_nl.xlsx,DS_2023Q3_BE601237_0000190600_3299228_nl.xlsx,Universal Music Group,0.7995,0.7995,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal België/DetailedStatements_13_nl_02042024130959/DS_2023Q4_BE600401_0000000407_3298084_nl.xlsx,DS_2023Q4_BE600401_0000000407_3298084_nl.xlsx,Universal Music Group,0.8087,0.1192,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal België/DetailedStatements_13_nl_02042024130959/DS_2023Q4_BE601237_0000001926_3299167_nl.xlsx,DS_2023Q4_BE601237_0000001926_3299167_nl.xlsx,Capitol Christian Music Group Label,0.7680,0.0712,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal België/DetailedStatements_13_nl_02042024130959/DS_2023Q4_BE603448_0000000759_3298396_nl.xlsx,DS_2023Q4_BE603448_0000000759_3298396_nl.xlsx,Universal Music Group,0.7679,0.0368,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal België/DS_2023Q3_BE601237_0000190600_3299228_nl.xlsx,DS_2023Q3_BE601237_0000190600_3299228_nl.xlsx,Universal Music Group,0.7995,0.7995,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal België/DS_2023Q4_BE600401_0000000407_3298084_nl.xlsx,DS_2023Q4_BE600401_0000000407_3298084_nl.xlsx,Universal Music Group,0.8087,0.1192,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal België/DS_2023Q4_BE601237_0000001926_3299167_nl.xlsx,DS_2023Q4_BE601237_0000001926_3299167_nl.xlsx,Capitol Christian Music Group Label,0.7680,0.0712,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal België/DS_2023Q4_BE603448_0000000759_3298396_nl.xlsx,DS_2023Q4_BE603448_0000000759_3298396_nl.xlsx,Universal Music Group,0.7679,0.0368,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal Duitsland/DS_2023Q4_DED843125_1555070002.xlsx,DS_2023Q4_DED843125_1555070002.xlsx,Universal Music Group,0.8279,0.8279,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal Duitsland/DS_2023Q4_DED852099_1555070003.xlsx,DS_2023Q4_DED852099_1555070003.xlsx,Universal Music Group,0.8497,0.1661,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q3_NL631299_5050030103_3297081_nl.xlsx,DS_2023Q3_NL631299_5050030103_3297081_nl.xlsx,Universal Music Group,0.8462,0.8462,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL630558_4019830045_3297151_nl.xlsx,DS_2023Q4_NL630558_4019830045_3297151_nl.xlsx,Universal Music Group,0.8276,0.8276,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631299_5050030084_3294886_nl.xlsx,DS_2023Q4_NL631299_5050030084_3294886_nl.xlsx,Universal Music Group,0.8628,0.1861,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631299_5050030086_3290446_nl.xlsx,DS_2023Q4_NL631299_5050030086_3290446_nl.xlsx,Universal Music Group,0.8308,0.1474,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631299_5050030115_3291742_nl.xlsx,DS_2023Q4_NL631299_5050030115_3291742_nl.xlsx,Universal Music Group,0.8287,0.8287,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631299_5050030116_3289915_nl.xlsx,DS_2023Q4_NL631299_5050030116_3289915_nl.xlsx,Universal Music Group,0.8291,0.8291,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631299_5050030118_3293874_nl.xlsx,DS_2023Q4_NL631299_5050030118_3293874_nl.xlsx,Universal Music Group,0.8258,0.8258,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631299_5050030119_3296030_nl.xlsx,DS_2023Q4_NL631299_5050030119_3296030_nl.xlsx,Universal Music Group,0.8309,0.8309,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631299_5050030120_3292690_nl.xlsx,DS_2023Q4_NL631299_5050030120_3292690_nl.xlsx,Universal Music Group,0.8200,0.8200,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631535_5301430048_3289550_nl.xlsx,DS_2023Q4_NL631535_5301430048_3289550_nl.xlsx,TuneCore,0.7963,0.0867,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL631535_5301430054_3293639_nl.xlsx,DS_2023Q4_NL631535_5301430054_3293639_nl.xlsx,Universal Music Group,0.8144,0.8144,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL633315_4000600001_3289317_nl.xlsx,DS_2023Q4_NL633315_4000600001_3289317_nl.xlsx,Universal Music Group,0.8293,0.8293,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL633668_0004360001_3291455_nl.xlsx,DS_2023Q4_NL633668_0004360001_3291455_nl.xlsx,Universal Music Group,0.8312,0.8312,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL634387_0019440004_3294712_nl.xlsx,DS_2023Q4_NL634387_0019440004_3294712_nl.xlsx,Universal Music Group,0.8320,0.8320,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL634392_0019490001_3293605_nl.xlsx,DS_2023Q4_NL634392_0019490001_3293605_nl.xlsx,Universal Music Group,0.8553,0.8553,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL635508_2001730001_3289607_nl.xlsx,DS_2023Q4_NL635508_2001730001_3289607_nl.xlsx,Universal Music Group,0.8548,0.8548,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL635508_2001730002_3295681_nl.xlsx,DS_2023Q4_NL635508_2001730002_3295681_nl.xlsx,Universal Music Group,0.8402,0.8402,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DetailedStatements_6_nl_02042024120005/DS_2023Q4_NL635508_2001730004_3295931_nl.xlsx,DS_2023Q4_NL635508_2001730004_3295931_nl.xlsx,Universal Music Group,0.8462,0.8462,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q3_NL631299_5050030103_3297081_nl.xlsx,DS_2023Q3_NL631299_5050030103_3297081_nl.xlsx,Universal Music Group,0.8462,0.8462,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL630558_4019830045_3297151_nl.xlsx,DS_2023Q4_NL630558_4019830045_3297151_nl.xlsx,Universal Music Group,0.8276,0.8276,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631299_5050030084_3294886_nl.xlsx,DS_2023Q4_NL631299_5050030084_3294886_nl.xlsx,Universal Music Group,0.8628,0.1861,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631299_5050030086_3290446_nl.xlsx,DS_2023Q4_NL631299_5050030086_3290446_nl.xlsx,Universal Music Group,0.8308,0.1474,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631299_5050030115_3291742_nl.xlsx,DS_2023Q4_NL631299_5050030115_3291742_nl.xlsx,Universal Music Group,0.8287,0.8287,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631299_5050030116_3289915_nl.xlsx,DS_2023Q4_NL631299_5050030116_3289915_nl.xlsx,Universal Music Group,0.8291,0.8291,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631299_5050030118_3293874_nl.xlsx,DS_2023Q4_NL631299_5050030118_3293874_nl.xlsx,Universal Music Group,0.8258,0.8258,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631299_5050030119_3296030_nl.xlsx,DS_2023Q4_NL631299_5050030119_3296030_nl.xlsx,Universal Music Group,0.8309,0.8309,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631299_5050030120_3292690_nl.xlsx,DS_2023Q4_NL631299_5050030120_3292690_nl.xlsx,Universal Music Group,0.8200,0.8200,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631535_5301430048_3289550_nl.xlsx,DS_2023Q4_NL631535_5301430048_3289550_nl.xlsx,TuneCore,0.7963,0.0867,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL631535_5301430054_3293639_nl.xlsx,DS_2023Q4_NL631535_5301430054_3293639_nl.xlsx,Universal Music Group,0.8144,0.8144,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL633315_4000600001_3289317_nl.xlsx,DS_2023Q4_NL633315_4000600001_3289317_nl.xlsx,Universal Music Group,0.8293,0.8293,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL633668_0004360001_3291455_nl.xlsx,DS_2023Q4_NL633668_0004360001_3291455_nl.xlsx,Universal Music Group,0.8312,0.8312,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL634387_0019440004_3294712_nl.xlsx,DS_2023Q4_NL634387_0019440004_3294712_nl.xlsx,Universal Music Group,0.8320,0.8320,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL634392_0019490001_3293605_nl.xlsx,DS_2023Q4_NL634392_0019490001_3293605_nl.xlsx,Universal Music Group,0.8553,0.8553,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL635508_2001730001_3289607_nl.xlsx,DS_2023Q4_NL635508_2001730001_3289607_nl.xlsx,Universal Music Group,0.8548,0.8548,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL635508_2001730002_3295681_nl.xlsx,DS_2023Q4_NL635508_2001730002_3295681_nl.xlsx,Universal Music Group,0.8402,0.8402,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-06/Universal NL/DS_2023Q4_NL635508_2001730004_3295931_nl.xlsx,DS_2023Q4_NL635508_2001730004_3295931_nl.xlsx,Universal Music Group,0.8462,0.8462,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Bongo/CTM Outlander Music LP - Nico  NICO - 1H24.pdf,CTM Outlander Music LP - Nico  NICO - 1H24.pdf,BMG Publisher,0.7178,0.0420,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Ali B Op Volle Toeren (Dureco - Sample De Clown - M30033).csv,2024 - H1 Ali B Op Volle Toeren (Dureco - Sample De Clown - M30033).csv,Platoon,0.8528,0.1630,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Ali B Op Volle Toeren (Dureco-Strengholt - M10012).csv,2024 - H1 Ali B Op Volle Toeren (Dureco-Strengholt - M10012).csv,Platoon,0.8520,0.1627,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016.csv,2024 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016.csv,Platoon,0.8423,0.8423,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016).csv,2024 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016).csv,Platoon,0.8462,0.8462,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco Digidance (iTunes).csv,2024 - H1 Dureco Digidance (iTunes).csv,Platoon,0.8368,0.1228,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco L-Downl.Only DS80-DB60.csv,2024 - H1 Dureco L-Downl.Only DS80-DB60.csv,Platoon,0.8459,0.8459,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco L-N22Net-C22Net-S22Net-Fx-Tx-DS80-DB50.csv,2024 - H1 Dureco L-N22Net-C22Net-S22Net-Fx-Tx-DS80-DB50.csv,Platoon,0.8444,0.8444,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco L-N22Net-C22Net-SxNet-F100-Tx-DSx-DBx.csv,2024 - H1 Dureco L-N22Net-C22Net-SxNet-F100-Tx-DSx-DBx.csv,Platoon,0.8469,0.8469,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco L-N22Net-C22Net-SxNet-F75-Tx-DS80-DB50.csv,2024 - H1 Dureco L-N22Net-C22Net-SxNet-F75-Tx-DS80-DB50.csv,Platoon,0.8161,0.0827,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco L-N22PPD-C22Net-S22Net-F100-Tx-DSx-DBx.csv,2024 - H1 Dureco L-N22PPD-C22Net-S22Net-F100-Tx-DSx-DBx.csv,Platoon,0.8555,0.1645,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Cloud 9 Music/2024 - H1 Dureco L-N24PPD-C24PPD-S24PPD-F75-Tx-DSx-DBx.csv,2024 - H1 Dureco L-N24PPD-C24PPD-S24PPD-F75-Tx-DSx-DBx.csv,Platoon,0.8210,0.0820,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Dureco Licentie overzicht 2024-12.xlsx,Dureco Licentie overzicht 2024-12.xlsx,Sony Music Publishing,0.7822,0.0935,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Filmservice/statements_70062_R-70062-2024-1.xls,statements_70062_R-70062-2024-1.xls,Universal Music Group,0.7684,0.0767,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Incidentiële licenties/DURECO - Licentieinkomsten + Sync (2024-H2).xlsx,DURECO - Licentieinkomsten + Sync (2024-H2).xlsx,Platoon,0.8238,0.1407,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Incidentiële licenties/Scorpio Films - Cult Epics/Vul_aan_met_Docusign_Cult_Epics-Dureco_-_VD-.pdf,Vul_aan_met_Docusign_Cult_Epics-Dureco_-_VD-.pdf,Sony Music Entertainment,0.7013,0.7013,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Incidentiële licenties/Sony - The Ultimate Collection.pdf,Sony - The Ultimate Collection.pdf,Sony Music Entertainment,0.5828,0.1227,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Musiques & Solutions/CTM (Dureco - Strengholt) - Digital - 2023 (Detail Sent) (Now 75).xlsx,CTM (Dureco - Strengholt) - Digital - 2023 (Detail Sent) (Now 75).xlsx,Universal Music Group,0.7746,0.0764,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Musiques & Solutions/Décomptes Dureco - Strengholt (NOW CTM Music) 2023.xls,Décomptes Dureco - Strengholt (NOW CTM Music) 2023.xls,Radar Records,0.7668,0.0858,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Musiques & Solutions/wetransfer_m-s-ctm-statements-2023_2024-10-30_0310/Décomptes Dureco - Strengholt (NOW CTM Music) 2023.xls,Décomptes Dureco - Strengholt (NOW CTM Music) 2023.xls,Radar Records,0.7668,0.0858,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Musiques & Solutions/wetransfer_m-s-ctm-statements-2023_2024-10-30_0310/CTM (Dureco - Strengholt) - Digital - 2023 (Detail Sent) (Now 75 �).xlsx,CTM (Dureco - Strengholt) - Digital - 2023 (Detail Sent) (Now 75 �).xlsx,Universal Music Group,0.8255,0.1570,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/P-Vine/202212-TR621632.pdf,202212-TR621632.pdf,Sony Music Entertainment,0.7841,0.1800,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/P-Vine/202306-TR621632.pdf,202306-TR621632.pdf,Sony Music Entertainment,0.7835,0.1798,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/P-Vine/202312-TR621632.pdf,202312-TR621632.pdf,Sony Music Entertainment,0.7835,0.1807,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/P-Vine/202406-TR621632.pdf,202406-TR621632.pdf,Sony Music Entertainment,0.7835,0.1807,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Sony NL/statement-details-export-25-10-2024105226.xlsx,statement-details-export-25-10-2024105226.xlsx,Sony Music Entertainment,0.8752,0.8752,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Sony NL/statement-details-export-25-10-2024105328 (1).xlsx,statement-details-export-25-10-2024105328 (1).xlsx,Sony Music Entertainment,0.8774,0.8774,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Sony NL/statement-details-export-25-10-2024105328.xlsx,statement-details-export-25-10-2024105328.xlsx,Sony Music Entertainment,0.8761,0.8761,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal België/DS_2024Q2_BE600401_0000000407.xlsx,DS_2024Q2_BE600401_0000000407.xlsx,Universal Music Group,0.7920,0.0766,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal België/DS_2024Q2_BE600401_0000040200.xlsx,DS_2024Q2_BE600401_0000040200.xlsx,Capitol Christian Music Group Label,0.7423,0.0528,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal België/DS_2024Q2_BE601237_0000001926.xlsx,DS_2024Q2_BE601237_0000001926.xlsx,Tone,0.7288,0.0111,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal België/DS_2024Q2_BE603448_0000000759.xlsx,DS_2024Q2_BE603448_0000000759.xlsx,Universal Music Group,0.7663,0.0156,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Duitsland/DS_2023Q2_DED843125_1555070002.xlsx,DS_2023Q2_DED843125_1555070002.xlsx,Warner Chappell,0.7984,0.1061,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Duitsland/DS_2023Q4_DED843125_1555070002 (1).xlsx,DS_2023Q4_DED843125_1555070002 (1).xlsx,Universal Music Group,0.8279,0.8279,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Duitsland/DS_2023Q4_DED852099_1555070003.xlsx,DS_2023Q4_DED852099_1555070003.xlsx,Universal Music Group,0.8497,0.1661,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Duitsland/DS_2024Q2_DED852099_1555070003.xlsx,DS_2024Q2_DED852099_1555070003.xlsx,Universal Music Group,0.8482,0.1651,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Nederland/DS_20240630_NL631299 .xlsx,DS_20240630_NL631299 .xlsx,Universal Music Group,0.8496,0.1683,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Nederland/DS_20240630_NL631535 .xlsx,DS_20240630_NL631535 .xlsx,TuneCore,0.8097,0.1327,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Nederland/DS_20240630_NL634387 .xlsx,DS_20240630_NL634387 .xlsx,Universal Music Group,0.8452,0.8452,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Nederland/DS_20240630_NL635508 .xlsx,DS_20240630_NL635508 .xlsx,Universal Music Group,0.8521,0.8521,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Nederland/DS_2024Q2_NL630558_4019830045.xlsx,DS_2024Q2_NL630558_4019830045.xlsx,Universal Music Group,0.8274,0.8274,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Nederland/DS_2024Q2_NL633315_4000600001.xlsx,DS_2024Q2_NL633315_4000600001.xlsx,Universal Music Group,0.8293,0.8293,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Nederland/DS_2024Q2_NL633668_0004360001.xlsx,DS_2024Q2_NL633668_0004360001.xlsx,Universal Music Group,0.8306,0.8306,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Universal Nederland/DS_2024Q2_NL634392_0019490001.xlsx,DS_2024Q2_NL634392_0019490001.xlsx,Universal Music Group,0.8535,0.8535,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Warner/10007_202307_202312_10007_DTL.csv,10007_202307_202312_10007_DTL.csv,Warner Music Group,0.8759,0.8759,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Warner/10007_202307_202312_10007_DTL.pdf,10007_202307_202312_10007_DTL.pdf,Sony Music Entertainment,0.7366,0.0625,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Warner/10007_202307_202312_150_SUM.pdf,10007_202307_202312_150_SUM.pdf,Sony Music Entertainment,0.7807,0.7807,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Warner/Statement_10007_1153_10007_150_20231231/10007_202307_202312_10007_DTL.csv,10007_202307_202312_10007_DTL.csv,Warner Music Group,0.8759,0.8759,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Warner/Statement_10007_1153_10007_150_20231231/10007_202307_202312_10007_DTL.pdf,10007_202307_202312_10007_DTL.pdf,Sony Music Entertainment,0.7366,0.0625,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Warner/Statement_10007_1153_10007_150_20231231/10007_202307_202312_150_SUM.pdf,10007_202307_202312_150_SUM.pdf,Sony Music Entertainment,0.7807,0.7807,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2024-12/Warner/Statement_10007_1153_10007_20231231.txt,Statement_10007_1153_10007_20231231.txt,Spinnin' Records,0.7685,0.0224,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/BOEP/Boep_RoyaltyStatement_2309_2501_711035.xlsx,Boep_RoyaltyStatement_2309_2501_711035.xlsx,Universal Music Group,0.8317,0.1670,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Ali B Op Volle Toeren (Dureco - Sample De Clown - M30033) M30033 Dureco-Strengholt - De Clown 2011.csv,2024 - H2 Ali B Op Volle Toeren (Dureco - Sample De Clown - M30033) M30033 Dureco-Strengholt - De Clown 2011.csv,Platoon,0.8567,0.1633,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Ali B Op Volle Toeren (Dureco-Strengholt - M10012) M10012 ABOVT & Friends - De Clown.csv,2024 - H2 Ali B Op Volle Toeren (Dureco-Strengholt - M10012) M10012 ABOVT & Friends - De Clown.csv,Platoon,0.8553,0.1627,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016 Dureco Backcatalogue (001NO).csv,2024 - H2 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016 Dureco Backcatalogue (001NO).csv,Platoon,0.8197,0.0817,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016 Dureco Backcatalogue.csv,2024 - H2 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016 Dureco Backcatalogue.csv,Platoon,0.8508,0.8508,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco Digidance (iTunes) (003404-3404-005NO) Sales Export.csv,2024 - H2 Dureco Digidance (iTunes) (003404-3404-005NO) Sales Export.csv,Platoon,0.8508,0.1638,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco Digidance VARI2010007 (003404-3404-006NO) Sales Export.csv,2024 - H2 Dureco Digidance VARI2010007 (003404-3404-006NO) Sales Export.csv,Platoon,0.8178,0.0820,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco L-Downl.Only DS80-DB60 (003404-3404-004028639-28639-001) Sales Export.csv,2024 - H2 Dureco L-Downl.Only DS80-DB60 (003404-3404-004028639-28639-001) Sales Export.csv,Platoon,0.8506,0.8506,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco L-N22Net-C22Net-S22Net-Fx-Tx-DS80-DB50 (003404-3404-008NO) Sales Export.csv,2024 - H2 Dureco L-N22Net-C22Net-S22Net-Fx-Tx-DS80-DB50 (003404-3404-008NO) Sales Export.csv,Platoon,0.8141,0.0830,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco L-N22Net-C22Net-SxNet-F100-Tx-DSx-DBx (003404-3404-009NO) Sales Export.csv,2024 - H2 Dureco L-N22Net-C22Net-SxNet-F100-Tx-DSx-DBx (003404-3404-009NO) Sales Export.csv,Platoon,0.8174,0.0818,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco L-N22Net-C22Net-SxNet-F75-Tx-DS80-DB50 (003404-3404-002NO) Sales Export.csv,2024 - H2 Dureco L-N22Net-C22Net-SxNet-F75-Tx-DS80-DB50 (003404-3404-002NO) Sales Export.csv,Platoon,0.8172,0.0820,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco L-N22PPD-C22Net-S22Net-F100-Tx-DSx-DBx (003404-3404-003028639-28639-001) Sales Export.csv,2024 - H2 Dureco L-N22PPD-C22Net-S22Net-F100-Tx-DSx-DBx (003404-3404-003028639-28639-001) Sales Export.csv,Platoon,0.8511,0.8511,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Cloud 9 Music/2024 - H2 Dureco L-N24PPD-C24PPD-S24PPD-F75-Tx-DSx-DBx (003404-3404-011NO) Sales Export.csv,2024 - H2 Dureco L-N24PPD-C24PPD-S24PPD-F75-Tx-DSx-DBx (003404-3404-011NO) Sales Export.csv,Platoon,0.8167,0.0820,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Filmservice/statements_70062_R-70062-2024-2.xls,statements_70062_R-70062-2024-2.xls,Sony Music Entertainment,0.8296,0.1584,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Licenties/250424 - Master Sync License - Baila Chibiquiban - Water Brother Renewal.pdf,250424 - Master Sync License - Baila Chibiquiban - Water Brother Renewal.pdf,Music Reports,0.7231,0.1679,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Licenties/DURECO - Licentieinkomsten + Sync (2025-H1).xlsx,DURECO - Licentieinkomsten + Sync (2025-H1).xlsx,Platoon,0.8086,0.1421,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/MR Bongo/CTM Outlander Music LP - Nico  NICO - 2H24.pdf,CTM Outlander Music LP - Nico  NICO - 2H24.pdf,BMG Publisher,0.7418,0.0834,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Music On CD/1156_CS202412.txt,1156_CS202412.txt,Warner Music Group Benelux,0.7186,0.0174,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Music On CD/1156_CS202412.xlsx,1156_CS202412.xlsx,Universal Music Group,0.8306,0.1430,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Music On Vinyl/1118_CS202412.txt,1118_CS202412.txt,Warner Music Group,0.7968,0.1667,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Music On Vinyl/1118_CS202412.xlsx,1118_CS202412.xlsx,TuneCore,0.8364,0.8364,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-06/P-Vine/202412-TR621632.pdf,202412-TR621632.pdf,Sony Music Entertainment,0.6517,0.0455,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Red Bullet/2024 - H1 10019 - STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,2024 - H1 10019 - STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,Platoon,0.8532,0.1396,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Red Bullet/2024 - H2 10019 - STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,2024 - H2 10019 - STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,Platoon,0.8516,0.1391,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-06/Sony NL/statement-details-export-01-04-2025104607.xlsx,statement-details-export-01-04-2025104607.xlsx,Sony Music Entertainment,0.8798,0.8798,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/BOEP/Boep_RoyaltyStatement_2502_2509_711035.xlsx,Boep_RoyaltyStatement_2502_2509_711035.xlsx,Universal Music Group,0.8325,0.1685,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/BOEP/Boep_RoyaltyStatement_2510_711035.xlsx,Boep_RoyaltyStatement_2510_711035.xlsx,Universal Music Group,0.8096,0.8096,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Bongo/CTM Outlander Music LP - Nico  NICO - 1H25.pdf,CTM Outlander Music LP - Nico  NICO - 1H25.pdf,Warner Music Group,0.7684,0.1230,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Ali B Op Volle Toeren (Dureco - Sample De Clown - M30033) M30033 Dureco-Strengholt - De Clown 2011.csv,2025 - H1 Ali B Op Volle Toeren (Dureco - Sample De Clown - M30033) M30033 Dureco-Strengholt - De Clown 2011.csv,PARSE_ERROR,0.0000,0.0000,True,none
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016 Dureco Backcatalogue 029508-29508-001.csv,2025 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016 Dureco Backcatalogue 029508-29508-001.csv,Platoon,0.8143,0.0815,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016 Dureco Backcatalogue 029508-29508.csv,2025 - H1 Dureco Backcatalogue (Dureco BV - Labeldeal - M20016) M20016 Dureco Backcatalogue 029508-29508.csv,Platoon,0.8561,0.1641,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco Digidance (iTunes) (003404-3404-005NO) Sales Export.csv,2025 - H1 Dureco Digidance (iTunes) (003404-3404-005NO) Sales Export.csv,Platoon,0.8358,0.1426,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco Digidance VARI2010007 (003404-3404-006NO) Sales Export.csv,2025 - H1 Dureco Digidance VARI2010007 (003404-3404-006NO) Sales Export.csv,Platoon,0.8512,0.8512,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco L-Downl.Only DS80-DB60 (003404-3404-004028639-28639-001) Sales Export.csv,2025 - H1 Dureco L-Downl.Only DS80-DB60 (003404-3404-004028639-28639-001) Sales Export.csv,Platoon,0.8605,0.1646,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco L-N22Net-C22Net-S22Net-Fx-Tx-DS80-DB50 (003404-3404-008NO) Sales Export.csv,2025 - H1 Dureco L-N22Net-C22Net-S22Net-Fx-Tx-DS80-DB50 (003404-3404-008NO) Sales Export.csv,Platoon,0.8150,0.0830,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco L-N22Net-C22Net-SxNet-F100-Tx-DSx-DBx (003404-3404-009NO) Sales Export.csv,2025 - H1 Dureco L-N22Net-C22Net-SxNet-F100-Tx-DSx-DBx (003404-3404-009NO) Sales Export.csv,Platoon,0.8482,0.8482,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco L-N22Net-C22Net-SxNet-F75-Tx-DS80-DB50 (003404-3404-002NO) Sales Export(1).csv,2025 - H1 Dureco L-N22Net-C22Net-SxNet-F75-Tx-DS80-DB50 (003404-3404-002NO) Sales Export(1).csv,Platoon,0.8347,0.1229,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco L-N22Net-C22Net-SxNet-F75-Tx-DS80-DB50 (003404-3404-002NO) Sales Export.csv,2025 - H1 Dureco L-N22Net-C22Net-SxNet-F75-Tx-DS80-DB50 (003404-3404-002NO) Sales Export.csv,Platoon,0.8347,0.1229,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco L-N22PPD-C22Net-S22Net-F100-Tx-DSx-DBx (003404-3404-003028639-28639-001) Sales Export.csv,2025 - H1 Dureco L-N22PPD-C22Net-S22Net-F100-Tx-DSx-DBx (003404-3404-003028639-28639-001) Sales Export.csv,Platoon,0.8659,0.1652,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Cloud 9 Music/2025 - H1 Dureco L-N24PPD-C24PPD-S24PPD-F75-Tx-DSx-DBx (003404-3404-011NO) Sales Export.csv,2025 - H1 Dureco L-N24PPD-C24PPD-S24PPD-F75-Tx-DSx-DBx (003404-3404-011NO) Sales Export.csv,Platoon,0.8181,0.0827,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Filmservice/R-70062-2025-1.pdf,R-70062-2025-1.pdf,Sony Music Entertainment,0.7631,0.1472,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Filmservice/statements_70062_R-70062-2025-1.xls,statements_70062_R-70062-2025-1.xls,Sony Music Entertainment,0.8058,0.1150,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Musiques & solutions/CTM (Strengholt - Dureco) - M&S statements 2024 & 1.2025.xls,CTM (Strengholt - Dureco) - M&S statements 2024 & 1.2025.xls,UBC Publisher,0.6812,0.0001,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/P-Vine/2025053 - P-Vine Royalties 2025-06.pdf,2025053 - P-Vine Royalties 2025-06.pdf,Warner Music Group,0.7763,0.7763,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/P-Vine/202506-TR621632.pdf,202506-TR621632.pdf,Sony Music Entertainment,0.6471,0.0435,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/P-Vine/202506-TR621632.xlsx,202506-TR621632.xlsx,Sony Music Entertainment,0.8331,0.8331,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Red Bullet/2025 - H1 10019 - STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,2025 - H1 10019 - STRENGHOLT MUSIC - INZ. JAN AKKERMAN Sales Export.csv,Platoon,0.8537,0.1413,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Sony NL/statement_details_export_0004034988_2025-06-30_0605_Total_EN.xlsx,statement_details_export_0004034988_2025-06-30_0605_Total_EN.xlsx,Sony Music Entertainment,0.8618,0.8618,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Top Notch/DS_20250630_NL635508 .xlsx,DS_20250630_NL635508 .xlsx,Universal Music Group,0.8474,0.8474,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Universal BE/DS_20241231_BE600401 .xlsx,DS_20241231_BE600401 .xlsx,Tone,0.7677,0.0676,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Universal BE/DS_2024Q4_BE601237_0000001926.xlsx,DS_2024Q4_BE601237_0000001926.xlsx,Capitol Christian Music Group Label,0.7683,0.0678,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Universal BE/DS_2024Q4_BE603448_0000000759.xlsx,DS_2024Q4_BE603448_0000000759.xlsx,Universal Music Group,0.7699,0.0165,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Universal BE/DS_2025Q2_BE600401_0000000407.xlsx,DS_2025Q2_BE600401_0000000407.xlsx,Universal Music Group,0.7833,0.0554,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Universal BE/DS_2025Q2_BE601237_0000001926.xlsx,DS_2025Q2_BE601237_0000001926.xlsx,Universal Music Group,0.7564,0.0513,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Universal BE/DS_2025Q2_BE603448_0000000759.xlsx,DS_2025Q2_BE603448_0000000759.xlsx,Universal Music Group,0.7701,0.0164,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Universal NL/DS_20250630_NL630558 .xlsx,DS_20250630_NL630558 .xlsx,Universal Music Group,0.8358,0.8358,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2025-12/Universal NL/DS_20250630_NL631299 .xlsx,DS_20250630_NL631299 .xlsx,Universal Music Group,0.8458,0.8458,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2026-06/BOEP/Boep_RoyaltyStatement_2512_711035.xlsx,Boep_RoyaltyStatement_2512_711035.xlsx,Universal Music Group,0.8317,0.1691,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2026-06/Filmservice/GVSI R-R70062-2025-2-GV101919.PDF,GVSI R-R70062-2025-2-GV101919.PDF,Sony Music Entertainment,0.7283,0.7283,False,primary
+DURECO/DURECO/3rdParty/3rdParty/2026-06/Filmservice/R-70062-2025-2.pdf,R-70062-2025-2.pdf,Sony Music Entertainment,0.7657,0.1441,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2026-06/Filmservice/statements_70062_R-70062-2025-2.xls,statements_70062_R-70062-2025-2.xls,Sony Music Entertainment,0.8081,0.1162,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/2026-06/P-Vine/P-Vine 202512-TR621632.pdf,P-Vine 202512-TR621632.pdf,TuneCore,0.6189,0.0157,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/Archive/Cloud 9 Music/2019-II/cloud 9 - labeldeal 2019-1.xlsx,cloud 9 - labeldeal 2019-1.xlsx,Sony Music Publishing,0.8244,0.8244,False,primary
+DURECO/DURECO/3rdParty/3rdParty/Archive/Cloud 9 Music/2020-I/cloud 9 - labeldeal 2019-2.xlsx,cloud 9 - labeldeal 2019-2.xlsx,Sony Music Publishing,0.7598,0.0012,True,fallback
+DURECO/DURECO/3rdParty/3rdParty/Archive/Cloud 9 Music/2020-II/cloud 9 - labeldeal 2020-1.xlsx,cloud 9 - labeldeal 2020-1.xlsx,Sony Music Publishing,0.7999,0.0814,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/Archive/Cloud 9 Music/2021-I/cloud 9 - labeldeal 2020-2.xlsx,cloud 9 - labeldeal 2020-2.xlsx,Sony Music Publishing,0.8215,0.8215,False,primary
+DURECO/DURECO/3rdParty/3rdParty/Archive/Cloud 9 Music/2021-II/cloud 9 - labeldeal 2021-1.xlsx,cloud 9 - labeldeal 2021-1.xlsx,Sony Music Publishing,0.8227,0.8227,False,primary
+DURECO/DURECO/3rdParty/3rdParty/Archive/Cloud 9 Music/2022-I/cloud 9 - labeldeal 2021-2.xlsx,cloud 9 - labeldeal 2021-2.xlsx,Sony Music Publishing,0.8229,0.8229,False,primary
+DURECO/DURECO/3rdParty/3rdParty/Archive/Cloud 9 Music/2022-II/cloud 9 - labeldeal 2022-1.xlsx,cloud 9 - labeldeal 2022-1.xlsx,Sony Music Publishing,0.8239,0.8239,False,primary
+DURECO/DURECO/3rdParty/3rdParty/Archive/Cloud 9 Music/2023-I/cloud 9 - labeldeal 2022-2.xlsx,cloud 9 - labeldeal 2022-2.xlsx,Sony Music Publishing,0.8233,0.8233,False,primary
+DURECO/DURECO/3rdParty/3rdParty/Dureco - Statements IN Overview.xlsx,Dureco - Statements IN Overview.xlsx,Sony Music Entertainment,0.8102,0.1185,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/SYNCS/Dureco - Licentieinkomsten + Sync (2025-H2).xlsx,Dureco - Licentieinkomsten + Sync (2025-H2).xlsx,Platoon,0.8347,0.1632,False,fallback
+DURECO/DURECO/3rdParty/3rdParty/SYNCS/LICENTIES SYNCS - DURECO - 2025 2H.xlsx,LICENTIES SYNCS - DURECO - 2025 2H.xlsx,UBC Label,0.7592,0.0829,False,fallback
+DURECO/DURECO/The Source/2026/2026/2026-01/TheSource_RoyaltyStatement_2511_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2511_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7678,0.0465,True,fallback
+DURECO/DURECO/The Source/2024/2024/2024-01/TheSource_2311.csv,TheSource_2311.csv,Downtown Artist & Label Services,0.8126,0.1220,False,fallback
+DURECO/DURECO/The Source/2024/2024/2024-01/TheSource_RoyaltyStatement_2311_STRENGHOLT_DU@_Incl_All_Subs.xlsx,TheSource_RoyaltyStatement_2311_STRENGHOLT_DU@_Incl_All_Subs.xlsx,Universal Music Group,0.8191,0.1458,False,fallback
+DURECO/DURECO/The Source/2024/2024/2024-02/TheSource_2312.csv,TheSource_2312.csv,Downtown Artist & Label Services,0.8621,0.8621,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-02/TheSource_RoyaltyStatement_2312_STRENGHOLT_DU@_Incl_All_Subs.xlsx,TheSource_RoyaltyStatement_2312_STRENGHOLT_DU@_Incl_All_Subs.xlsx,Universal Music Group,0.8190,0.1257,False,fallback
+DURECO/DURECO/The Source/2024/2024/2024-03/TheSource_2401.csv,TheSource_2401.csv,Downtown Artist & Label Services,0.8024,0.0618,False,fallback
+DURECO/DURECO/The Source/2024/2024/2024-03/TheSource_RoyaltyStatement_2401_STRENGHOLT01.xlsx,TheSource_RoyaltyStatement_2401_STRENGHOLT01.xlsx,Universal Music Group,0.7475,0.0439,True,fallback
+DURECO/DURECO/The Source/2024/2024/2024-04/TheSource_2402.csv,TheSource_2402.csv,Downtown Artist & Label Services,0.8472,0.8472,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-04/TheSource_RoyaltyStatement_2402_STRENGHOLT01.xlsx,TheSource_RoyaltyStatement_2402_STRENGHOLT01.xlsx,Universal Music Group,0.7514,0.0202,True,fallback
+DURECO/DURECO/The Source/2024/2024/2024-05/TheSource_2403.csv,TheSource_2403.csv,Downtown Artist & Label Services,0.8435,0.8435,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-05/TheSource_RoyaltyStatement_2403_undefined_Incl_All_Subs.xlsx,TheSource_RoyaltyStatement_2403_undefined_Incl_All_Subs.xlsx,Universal Music Group,0.7479,0.0211,True,fallback
+DURECO/DURECO/The Source/2024/2024/2024-06/TheSource_2404.csv,TheSource_2404.csv,Curve Label,0.7996,0.0443,True,fallback
+DURECO/DURECO/The Source/2024/2024/2024-06/TheSource_RoyaltyStatement_2404_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2404_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7839,0.0861,False,fallback
+DURECO/DURECO/The Source/2024/2024/2024-07/TheSource_2405.csv,TheSource_2405.csv,Downtown Artist & Label Services,0.8574,0.8574,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-07/TheSource_RoyaltyStatement_2405_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2405_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7858,0.0851,False,fallback
+DURECO/DURECO/The Source/2024/2024/2024-08/TheSource_2406.csv,TheSource_2406.csv,Downtown Artist & Label Services,0.8533,0.8533,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-08/TheSource_RoyaltyStatement_2406_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2406_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.8087,0.8087,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-08/Top 25.xlsx,Top 25.xlsx,Universal Music Group,0.8087,0.8087,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-09/TheSource_2407.csv,TheSource_2407.csv,Downtown Artist & Label Services,0.8480,0.8480,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-09/TheSource_RoyaltyStatement_2407_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2407_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.8104,0.8104,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-10/TheSource_2408.csv,TheSource_2408.csv,Downtown Artist & Label Services,0.8573,0.8573,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-10/TheSource_RoyaltyStatement_2408_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2408_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.8195,0.1234,False,fallback
+DURECO/DURECO/The Source/2024/2024/2024-11/TheSource_2409.csv,TheSource_2409.csv,Downtown Artist & Label Services,0.8451,0.8451,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-11/TheSource_RoyaltyStatement_2409_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2409_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7475,0.0239,True,fallback
+DURECO/DURECO/The Source/2024/2024/2024-12/TheSource_2410.csv,TheSource_2410.csv,Downtown Artist & Label Services,0.8496,0.8496,False,primary
+DURECO/DURECO/The Source/2024/2024/2024-12/TheSource_RoyaltyStatement_2410_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2410_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7273,0.0041,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-01/TheSource_RoyaltyStatement_2411_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2411_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7475,0.0260,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-02/TheSource_RoyaltyStatement_2412_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2412_CTM_OUTLANDERMUSIC.xlsx,TuneCore,0.7425,0.0353,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-03/TheSource_2501.csv,TheSource_2501.csv,Downtown Artist & Label Services,0.8482,0.8482,False,primary
+DURECO/DURECO/The Source/2025/2025/2025-03/TheSource_RoyaltyStatement_2501_CTM_OUTLANDERMUSIC(1).xlsx,TheSource_RoyaltyStatement_2501_CTM_OUTLANDERMUSIC(1).xlsx,Universal Music Group,0.7461,0.0272,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-04/TheSource_2502.csv,TheSource_2502.csv,Downtown Artist & Label Services,0.8084,0.0592,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-04/TheSource_RoyaltyStatement_2502_CTM_OUTLANDERMUSIC(1).xlsx,TheSource_RoyaltyStatement_2502_CTM_OUTLANDERMUSIC(1).xlsx,Universal Music Group,0.8067,0.1224,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-05/TheSource_2503.csv,TheSource_2503.csv,Downtown Artist & Label Services,0.7690,0.0614,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-05/TheSource_RoyaltyStatement_2503_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2503_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7408,0.0044,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-06/TheSource_2504.csv,TheSource_2504.csv,Downtown Artist & Label Services,0.8422,0.1222,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-06/TheSource_RoyaltyStatement_2504_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2504_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7253,0.0044,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-07/TheSource_2505.csv,TheSource_2505.csv,Downtown Artist & Label Services,0.8085,0.0790,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-07/TheSource_RoyaltyStatement_2505_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2505_CTM_OUTLANDERMUSIC.xlsx,TuneCore,0.7820,0.0799,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-08/TheSource_2506.csv,TheSource_2506.csv,Downtown Artist & Label Services,0.8349,0.1213,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-08/TheSource_RoyaltyStatement_2506_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2506_CTM_OUTLANDERMUSIC.xlsx,TuneCore,0.7635,0.0575,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-09/TheSource_RoyaltyStatement_2507_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2507_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7254,0.0058,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-10/TheSource_RoyaltyStatement_2508_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2508_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7264,0.0053,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-11/TheSource_RoyaltyStatement_2509_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2509_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7845,0.0845,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-12/TheSource_RoyaltyStatement_2510_CTM_OUTLANDERMUSIC.xlsx,TheSource_RoyaltyStatement_2510_CTM_OUTLANDERMUSIC.xlsx,Universal Music Group,0.7283,0.0058,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-H2 Curve import files (split by daniel)/TheSource_2506.csv,TheSource_2506.csv,Downtown Artist & Label Services,0.7537,0.0007,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-H2 Curve import files (split by daniel)/TheSource_2506_SV.xlsx,TheSource_2506_SV.xlsx,Universal Music Group,0.7586,0.0630,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-H2 Curve import files (split by daniel)/TheSource_2506_txt.txt,TheSource_2506_txt.txt,Warner Music Group Benelux,0.7785,0.1197,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-H2 Curve import files (split by daniel)/TheSource_2507.csv,TheSource_2507.csv,Downtown Artist & Label Services,0.7867,0.0420,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-H2 Curve import files (split by daniel)/TheSource_2508.csv,TheSource_2508.csv,SoundExchange Artist,0.8296,0.1415,False,fallback
+DURECO/DURECO/The Source/2025/2025/2025-H2 Curve import files (split by daniel)/TheSource_2509.csv,TheSource_2509.csv,Downtown Artist & Label Services,0.8070,0.0397,True,fallback
+DURECO/DURECO/The Source/2025/2025/2025-H2 Curve import files (split by daniel)/TheSource_2510.csv,TheSource_2510.csv,Downtown Artist & Label Services,0.8543,0.8543,False,primary
+DURECO/DURECO/The Source/2025/2025/2025-H2 Curve import files (split by daniel)/TheSource_2511.csv,TheSource_2511.csv,Downtown Artist & Label Services,0.7822,0.0034,True,fallback
+DURECO/DURECO/The Source/2023/2023/2023-07/TheSource_RoyaltyStatement_2305_STRENGHOLT_DU@_Incl_All_Subs.xlsx,TheSource_RoyaltyStatement_2305_STRENGHOLT_DU@_Incl_All_Subs.xlsx,Universal Music Group,0.8203,0.1453,False,fallback
+DURECO/DURECO/The Source/2023/2023/2023-08/TheSource_RoyaltyStatement_2306_STRENGHOLT_DU@_Incl_All_Subs.xlsx,TheSource_RoyaltyStatement_2306_STRENGHOLT_DU@_Incl_All_Subs.xlsx,Universal Music Group,0.6953,0.0012,True,fallback
+DURECO/DURECO/The Source/2023/2023/2023-09/Dureco_2307.csv,Dureco_2307.csv,Downtown Artist & Label Services,0.7653,0.0345,True,fallback
+DURECO/DURECO/The Source/2023/2023/2023-09/TheSource_RoyaltyStatement_2307_STRENGHOLT_DU@_Incl_All_Subs.xlsx,TheSource_RoyaltyStatement_2307_STRENGHOLT_DU@_Incl_All_Subs.xlsx,Universal Music Group,0.8408,0.1662,False,fallback
+DURECO/DURECO/The Source/2023/2023/2023-10/Dureco_2308.csv,Dureco_2308.csv,Downtown Artist & Label Services,0.8468,0.8468,False,primary
+DURECO/DURECO/The Source/2023/2023/2023-10/TheSource_RoyaltyStatement_2308_STRENGHOLT_DU@_Incl_All_Subs (1).xlsx,TheSource_RoyaltyStatement_2308_STRENGHOLT_DU@_Incl_All_Subs (1).xlsx,Universal Music Group,0.8305,0.1686,False,fallback
+DURECO/DURECO/The Source/2023/2023/2023-11/Dureco_2309.csv,Dureco_2309.csv,Downtown Artist & Label Services,0.8041,0.0761,False,fallback
+DURECO/DURECO/The Source/2023/2023/2023-11/TheSource_RoyaltyStatement_2309_STRENGHOLT_DU@_Incl_All_Subs.xlsx,TheSource_RoyaltyStatement_2309_STRENGHOLT_DU@_Incl_All_Subs.xlsx,Sony Music Entertainment,0.7994,0.1598,False,fallback
+DURECO/DURECO/The Source/2023/2023/2023-12/Dureco_2310.csv,Dureco_2310.csv,Downtown Artist & Label Services,0.7974,0.0789,False,fallback
+DURECO/DURECO/The Source/2023/2023/2023-12/TheSource_RoyaltyStatement_2310_STRENGHOLT_DU@_Incl_All_Subs.xlsx,TheSource_RoyaltyStatement_2310_STRENGHOLT_DU@_Incl_All_Subs.xlsx,Universal Music Group,0.8086,0.8086,False,primary
+DURECO/DURECO/The Source/CTM_DurecoExportFull.xlsx,CTM_DurecoExportFull.xlsx,RouteNote,0.7599,0.0591,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2008.xlsx,CTM-2008.xlsx,Universal Music Group,0.7433,0.0200,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2009.xlsx,CTM-2009.xlsx,Universal Music Group,0.7861,0.0994,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2010.xlsx,CTM-2010.xlsx,BMG Publisher,0.7758,0.1014,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2011.xlsx,CTM-2011.xlsx,Universal Music Group,0.7834,0.1010,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2012.xlsx,CTM-2012.xlsx,BMG Publisher,0.8102,0.1585,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2001.xlsx,CTM-2001.xlsx,BMG Publisher,0.7636,0.0810,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2002.xlsx,CTM-2002.xlsx,Universal Music Group,0.8141,0.8141,False,primary
+DURECO/DURECO/The Source/2020/excel/CTM-2003.xlsx,CTM-2003.xlsx,Universal Music Group,0.7496,0.0223,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2004.xlsx,CTM-2004.xlsx,Universal Music Group,0.7223,0.0013,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2005.xlsx,CTM-2005.xlsx,Universal Music Group,0.7275,0.0387,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2006.xlsx,CTM-2006.xlsx,Universal Music Group,0.7836,0.1188,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2007.xlsx,CTM-2007.xlsx,BMG Publisher,0.7197,0.0000,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2308.xlsx,CTM-2308.xlsx,Universal Music Group,0.8255,0.1631,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2309.xlsx,CTM-2309.xlsx,Universal Music Group,0.7467,0.0219,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2310.xlsx,CTM-2310.xlsx,Universal Music Group,0.7868,0.0825,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2311.xlsx,CTM-2311.xlsx,Universal Music Group,0.7852,0.1024,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2312.xlsx,CTM-2312.xlsx,Universal Music Group,0.7647,0.0634,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2301.xlsx,CTM-2301.xlsx,Universal Music Group,0.8225,0.1622,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2302.xlsx,CTM-2302.xlsx,BMG Publisher,0.7443,0.0396,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2303.xlsx,CTM-2303.xlsx,Universal Music Group,0.8271,0.1605,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2304.xlsx,CTM-2304.xlsx,Universal Music Group,0.7276,0.0389,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2305.xlsx,CTM-2305.xlsx,Universal Music Group,0.7897,0.1008,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2306.xlsx,CTM-2306.xlsx,BMG Publisher,0.8191,0.1535,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2307.xlsx,CTM-2307.xlsx,BMG Publisher,0.7098,0.0002,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2207.xlsx,CTM-2207.xlsx,Universal Music Group,0.8302,0.1639,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2208.xlsx,CTM-2208.xlsx,The Orchard,0.7232,0.0221,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2209.xlsx,CTM-2209.xlsx,Universal Music Group,0.7443,0.0206,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2210.xlsx,CTM-2210.xlsx,BMG Publisher,0.7604,0.0799,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2211.xlsx,CTM-2211.xlsx,Universal Music Group,0.8261,0.1629,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2212.xlsx,CTM-2212.xlsx,Universal Music Group,0.8150,0.8150,False,primary
+DURECO/DURECO/The Source/2020/excel/CTM-2112.xlsx,CTM-2112.xlsx,Universal Music Group,0.7866,0.1050,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2201.xlsx,CTM-2201.xlsx,BMG Publisher,0.7154,0.0002,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2202.xlsx,CTM-2202.xlsx,Universal Music Group,0.8189,0.1626,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2203.xlsx,CTM-2203.xlsx,Universal Music Group,0.7239,0.0186,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2204.xlsx,CTM-2204.xlsx,Universal Music Group,0.8167,0.8167,False,primary
+DURECO/DURECO/The Source/2020/excel/CTM-2205.xlsx,CTM-2205.xlsx,BMG Publisher,0.7722,0.0790,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2206.xlsx,CTM-2206.xlsx,Universal Music Group,0.7488,0.0216,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2105.xlsx,CTM-2105.xlsx,Universal Music Group,0.8064,0.1419,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2106.xlsx,CTM-2106.xlsx,BMG Publisher,0.7647,0.0786,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2107.xlsx,CTM-2107.xlsx,Universal Music Group,0.7069,0.0011,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2108.xlsx,CTM-2108.xlsx,Universal Music Group,0.8351,0.1636,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2109.xlsx,CTM-2109.xlsx,BMG Publisher,0.7296,0.0004,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2110.xlsx,CTM-2110.xlsx,Universal Music Group,0.7848,0.1208,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2111.xlsx,CTM-2111.xlsx,Universal Music Group,0.7040,0.0005,True,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2101.xlsx,CTM-2101.xlsx,Universal Music Group,0.8283,0.1641,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2102.xlsx,CTM-2102.xlsx,Universal Music Group,0.7913,0.1004,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2103.xlsx,CTM-2103.xlsx,BMG Publisher,0.7823,0.1177,False,fallback
+DURECO/DURECO/The Source/2020/excel/CTM-2104.xlsx,CTM-2104.xlsx,BMG Publisher,0.7428,0.0408,True,fallback
+DURECO/DURECO/The Source/2020/Extra/Extra/CTM_Strengholt_2001-2306.csv,CTM_Strengholt_2001-2306.csv,Downtown Artist & Label Services,0.6819,0.0358,True,fallback
+DURECO/DURECO/The Source/2020/Extra/Extra/CTM_Strengholt_2023H1.csv,CTM_Strengholt_2023H1.csv,Create Music Group,0.8091,0.1255,False,fallback

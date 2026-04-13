@@ -5,6 +5,8 @@ DURECO Inference Script
 Runs inference on DURECO holdout dataset using the best configuration
 from experiments (thresh_margin_010 with agg_weighted fallback).
 
+Handles nested ZIP archives within the main DURECO.zip.
+
 Outputs:
 1. Simple CSV: file_path, predicted_class, confidence, is_uncertain
 2. Detailed JSON: full prediction details with scores
@@ -43,30 +45,29 @@ class PredictionResult:
     margin: float
     is_uncertain: bool
     top_classes: List[Dict[str, float]]
-    strategy_used: str  # "primary" (thresh_margin) or "fallback" (agg_weighted)
+    strategy_used: str
 
 
 @dataclass
 class InferenceConfig:
     """Configuration for inference."""
-    # Primary strategy: thresh_margin_010
     primary_aggregation: str = "mean"
     primary_top_k: int = 10
     primary_min_margin: float = 0.10
     
-    # Fallback strategy: agg_weighted
     fallback_aggregation: str = "weighted"
     fallback_top_k: int = 10
     fallback_weight_max: float = 0.5
     fallback_weight_avg: float = 0.3
     fallback_weight_count: float = 0.2
     
-    # Uncertainty threshold for flagging
     uncertainty_threshold: float = 0.70
 
 
 class DURECOInference:
-    """Inference engine for DURECO dataset."""
+    """Inference engine for DURECO dataset with nested ZIP support."""
+    
+    SUPPORTED_EXTENSIONS = {'.csv', '.xlsx', '.xls', '.pdf', '.txt', '.tsv', '.tab'}
     
     def __init__(self, qdrant_path: str, embedding_model: str = "BAAI/bge-large-en-v1.5"):
         self.qdrant_path = qdrant_path
@@ -78,7 +79,6 @@ class DURECOInference:
         self.results: List[PredictionResult] = []
     
     def _load_embedder(self):
-        """Lazy load embedding model."""
         if self.embedder is not None:
             return
         
@@ -88,7 +88,6 @@ class DURECOInference:
         logger.info("Model loaded on GPU")
     
     def _load_qdrant(self):
-        """Lazy load Qdrant client."""
         if self.qdrant_client is not None:
             return
         
@@ -98,7 +97,6 @@ class DURECOInference:
         logger.info("Qdrant connected")
     
     def _embed(self, text: str) -> np.ndarray:
-        """Embed a single text."""
         self._load_embedder()
         embedding = self.embedder.encode(
             text,
@@ -109,7 +107,6 @@ class DURECOInference:
         return embedding.astype(np.float16)
     
     def _search(self, vector: np.ndarray, top_k: int) -> List[dict]:
-        """Search Qdrant for similar documents."""
         self._load_qdrant()
         
         results = self.qdrant_client.query_points(
@@ -121,7 +118,6 @@ class DURECOInference:
         return [{"id": r.id, "score": r.score, "payload": r.payload} for r in results.points]
     
     def _parse_file_content(self, file_path: str, content: bytes) -> str:
-        """Parse file content into semantic representation."""
         ext = Path(file_path).suffix.lower()
         
         try:
@@ -140,7 +136,6 @@ class DURECOInference:
             return ""
     
     def _parse_csv(self, content: bytes) -> str:
-        """Parse CSV content."""
         import pandas as pd
         try:
             df = pd.read_csv(io.BytesIO(content), nrows=50, encoding='utf-8', on_bad_lines='skip')
@@ -152,10 +147,9 @@ class DURECOInference:
         
         cols = list(df.columns[:30])
         sample_rows = df.head(10).to_string(index=False, max_colwidth=50)
-        return f"CSV Schema: {', '.join(cols)}\nSample Data:\n{sample_rows}"
+        return f"CSV Schema: {', '.join(str(c) for c in cols)}\nSample Data:\n{sample_rows}"
     
     def _parse_excel(self, content: bytes, ext: str) -> str:
-        """Parse Excel content."""
         import pandas as pd
         try:
             if ext == '.xls':
@@ -170,7 +164,6 @@ class DURECOInference:
         return f"Excel Schema: {', '.join(str(c) for c in cols)}\nSample Data:\n{sample_rows}"
     
     def _parse_pdf(self, content: bytes) -> str:
-        """Parse PDF content."""
         import fitz
         try:
             doc = fitz.open(stream=content, filetype="pdf")
@@ -184,7 +177,6 @@ class DURECOInference:
             return ""
     
     def _parse_text(self, content: bytes) -> str:
-        """Parse text content."""
         try:
             text = content.decode('utf-8')
         except:
@@ -195,7 +187,6 @@ class DURECOInference:
         return text[:4096]
     
     def _aggregate_scores(self, results: List[dict], method: str, top_k: int) -> Dict[str, float]:
-        """Aggregate retrieval results into class scores."""
         class_results = defaultdict(list)
         for r in results:
             class_label = r["payload"]["class_label"]
@@ -224,13 +215,9 @@ class DURECOInference:
         return class_scores
     
     def _predict_single(self, file_path: str, text: str) -> PredictionResult:
-        """Make prediction for a single file."""
         ext = Path(file_path).suffix.lower()
         
-        # Embed
         vector = self._embed(text)
-        
-        # Search with primary config
         results = self._search(vector, self.config.primary_top_k)
         
         if not results:
@@ -246,7 +233,7 @@ class DURECOInference:
                 strategy_used="none"
             )
         
-        # Primary strategy: thresh_margin
+        # Primary strategy
         class_scores = self._aggregate_scores(results, self.config.primary_aggregation, self.config.primary_top_k)
         sorted_classes = sorted(class_scores.items(), key=lambda x: x[1], reverse=True)
         
@@ -254,7 +241,6 @@ class DURECOInference:
         second_score = sorted_classes[1][1] if len(sorted_classes) > 1 else 0.0
         margin = top_score - second_score
         
-        # Check if primary strategy is confident
         if margin >= self.config.primary_min_margin:
             is_uncertain = top_score < self.config.uncertainty_threshold
             return PredictionResult(
@@ -262,14 +248,14 @@ class DURECOInference:
                 file_name=Path(file_path).name,
                 file_type=ext,
                 predicted_class=top_class,
-                confidence=top_score,
-                margin=margin,
+                confidence=float(top_score),
+                margin=float(margin),
                 is_uncertain=is_uncertain,
-                top_classes=[{"class": c, "score": s} for c, s in sorted_classes[:5]],
+                top_classes=[{"class": c, "score": float(s)} for c, s in sorted_classes[:5]],
                 strategy_used="primary"
             )
         
-        # Fallback strategy: agg_weighted
+        # Fallback strategy
         class_scores = self._aggregate_scores(results, self.config.fallback_aggregation, self.config.fallback_top_k)
         sorted_classes = sorted(class_scores.items(), key=lambda x: x[1], reverse=True)
         
@@ -284,29 +270,62 @@ class DURECOInference:
             file_name=Path(file_path).name,
             file_type=ext,
             predicted_class=top_class,
-            confidence=top_score,
-            margin=margin,
+            confidence=float(top_score),
+            margin=float(margin),
             is_uncertain=is_uncertain,
-            top_classes=[{"class": c, "score": s} for c, s in sorted_classes[:5]],
+            top_classes=[{"class": c, "score": float(s)} for c, s in sorted_classes[:5]],
             strategy_used="fallback"
         )
     
+    def _process_nested_zip(self, zf: zipfile.ZipFile, zip_name: str, parent_path: str = "") -> List[Tuple[str, bytes]]:
+        """Extract files from a nested ZIP, returning (path, content) tuples."""
+        files = []
+        
+        for name in zf.namelist():
+            if name.startswith('__MACOSX'):
+                continue
+            
+            full_path = f"{parent_path}/{zip_name}/{name}" if parent_path else f"{zip_name}/{name}"
+            
+            if name.endswith('/'):
+                continue
+            
+            ext = Path(name).suffix.lower()
+            
+            if ext == '.zip':
+                # Nested ZIP - recurse
+                try:
+                    nested_content = zf.read(name)
+                    nested_zf = zipfile.ZipFile(io.BytesIO(nested_content))
+                    nested_files = self._process_nested_zip(nested_zf, Path(name).stem, full_path.rsplit('/', 1)[0])
+                    files.extend(nested_files)
+                    nested_zf.close()
+                except Exception as e:
+                    logger.warning(f"Failed to process nested ZIP {name}: {e}")
+            elif ext in self.SUPPORTED_EXTENSIONS:
+                try:
+                    content = zf.read(name)
+                    files.append((full_path, content))
+                except Exception as e:
+                    logger.warning(f"Failed to read {name}: {e}")
+        
+        return files
+    
     def run_inference_on_zip(self, zip_path: str) -> List[PredictionResult]:
-        """Run inference on all files in a ZIP archive."""
+        """Run inference on all files in a ZIP archive, including nested ZIPs."""
         logger.info(f"Opening ZIP: {zip_path}")
         
         results = []
-        supported_extensions = {'.csv', '.xlsx', '.xls', '.pdf', '.txt', '.tsv', '.tab'}
         
         with zipfile.ZipFile(zip_path, 'r') as zf:
-            file_list = [f for f in zf.namelist() 
-                        if not f.endswith('/') and Path(f).suffix.lower() in supported_extensions]
+            # Get all files including from nested ZIPs
+            logger.info("Scanning for files (including nested ZIPs)...")
+            all_files = self._process_nested_zip(zf, Path(zip_path).stem)
             
-            logger.info(f"Found {len(file_list)} files to process")
+            logger.info(f"Found {len(all_files)} files to process")
             
-            for file_path in tqdm(file_list, desc="Processing DURECO"):
+            for file_path, content in tqdm(all_files, desc="Processing DURECO"):
                 try:
-                    content = zf.read(file_path)
                     text = self._parse_file_content(file_path, content)
                     
                     if not text:
@@ -343,53 +362,7 @@ class DURECOInference:
         self.results = results
         return results
     
-    def run_inference_on_directory(self, dir_path: str) -> List[PredictionResult]:
-        """Run inference on all files in a directory."""
-        logger.info(f"Scanning directory: {dir_path}")
-        
-        results = []
-        supported_extensions = {'.csv', '.xlsx', '.xls', '.pdf', '.txt', '.tsv', '.tab'}
-        
-        file_list = []
-        for root, _, files in os.walk(dir_path):
-            for f in files:
-                if Path(f).suffix.lower() in supported_extensions:
-                    file_list.append(os.path.join(root, f))
-        
-        logger.info(f"Found {len(file_list)} files to process")
-        
-        for file_path in tqdm(file_list, desc="Processing files"):
-            try:
-                with open(file_path, 'rb') as f:
-                    content = f.read()
-                
-                text = self._parse_file_content(file_path, content)
-                
-                if not text:
-                    results.append(PredictionResult(
-                        file_path=file_path,
-                        file_name=Path(file_path).name,
-                        file_type=Path(file_path).suffix.lower(),
-                        predicted_class="PARSE_ERROR",
-                        confidence=0.0,
-                        margin=0.0,
-                        is_uncertain=True,
-                        top_classes=[],
-                        strategy_used="none"
-                    ))
-                    continue
-                
-                result = self._predict_single(file_path, text)
-                results.append(result)
-                
-            except Exception as e:
-                logger.warning(f"Error processing {file_path}: {e}")
-        
-        self.results = results
-        return results
-    
     def save_results_csv(self, output_path: str):
-        """Save results to simple CSV."""
         import csv
         
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
@@ -410,7 +383,6 @@ class DURECOInference:
         logger.info(f"CSV saved to {output_path}")
     
     def save_results_json(self, output_path: str):
-        """Save detailed results to JSON."""
         data = {
             "timestamp": datetime.now().isoformat(),
             "config": asdict(self.config),
@@ -430,14 +402,16 @@ class DURECOInference:
         logger.info(f"JSON saved to {output_path}")
     
     def print_summary(self):
-        """Print summary statistics."""
         total = len(self.results)
+        if total == 0:
+            print("No results to summarize")
+            return
+            
         primary = sum(1 for r in self.results if r.strategy_used == "primary")
         fallback = sum(1 for r in self.results if r.strategy_used == "fallback")
         uncertain = sum(1 for r in self.results if r.is_uncertain)
         errors = sum(1 for r in self.results if r.predicted_class in ["PARSE_ERROR", "ERROR", "UNKNOWN"])
         
-        # Class distribution
         class_counts = defaultdict(int)
         for r in self.results:
             class_counts[r.predicted_class] += 1
@@ -470,7 +444,9 @@ def main():
     if args.input.endswith('.zip'):
         inference.run_inference_on_zip(args.input)
     else:
-        inference.run_inference_on_directory(args.input)
+        # Directory mode not updated for this script
+        logger.error("Directory mode not supported, use ZIP file")
+        sys.exit(1)
     
     inference.save_results_csv(args.output_csv)
     inference.save_results_json(args.output_json)

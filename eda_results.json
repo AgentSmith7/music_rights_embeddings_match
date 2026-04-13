@@ -1,0 +1,132 @@
+{
+  "timestamp": "2026-04-12T21:42:29.845100",
+  "base_path": "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement",
+  "summary": {
+    "total_classes": 378,
+    "total_files": 82690,
+    "total_size_gb": 368.9
+  },
+  "class_stats": {
+    "min_files": 1,
+    "max_files": 13217,
+    "mean_files": 218.8,
+    "median_files": 18,
+    "classes_lt_5_files": 90,
+    "classes_lt_10_files": 148,
+    "classes_gt_100_files": 77,
+    "classes_gt_500_files": 29
+  },
+  "class_distribution": {
+    "top_30": {
+      "SoundExchange Artist": 13217,
+      "ASCAP Writer": 5720,
+      "BMI Writer": 5686,
+      "Sony Music Entertainment": 5509,
+      "Universal Music Group": 4908,
+      "Warner Music Group": 3774,
+      "Sony Music Publishing": 2840,
+      "SoundExchange Label": 2700,
+      "TuneCore": 2077,
+      "Kollective Neighbouring Rights": 1758,
+      "PRS Writer": 1201,
+      "Abramus Writer": 1141,
+      "Universal Music Publishing Group": 1115,
+      "Kobalt Music Publishing": 1110,
+      "Abramus Artist": 1094,
+      "BMG Publisher": 1089,
+      "BMI Publisher": 1088,
+      "UBC Writer": 1087,
+      "UBC Artist": 989,
+      "The District": 948,
+      "ASCAP Publisher": 881,
+      "Warner Chappell": 829,
+      "The Orchard": 822,
+      "DistroKid": 759,
+      "Stem Disintermedia": 728,
+      "UBC Label": 664,
+      "Royalty Exchange Artist": 564,
+      "AWAL": 524,
+      "Audiam": 507,
+      "PRS Publisher": 497
+    },
+    "bottom_10": {
+      "Spotify Settlement": 1,
+      "Never Say Die mechanicals": 1,
+      "800 Pound Gorilla Records": 1,
+      "Position Music Writer": 1,
+      "Songs of Innocence": 1,
+      "KODA Publisher": 1,
+      "1091 Distribution": 1,
+      "Kranky ltd.": 1,
+      "Red Room Distribution": 1,
+      "Klub Record": 1
+    }
+  },
+  "extension_distribution": {
+    "counts": {
+      ".csv": 52376,
+      ".xlsx": 27001,
+      ".pdf": 2771,
+      ".xls": 411,
+      ".txt": 125,
+      ".xlt": 4,
+      ".tab": 2
+    },
+    "sizes_gb": {
+      ".csv": 313.02,
+      ".xlsx": 50.16,
+      ".pdf": 2.06,
+      ".xls": 1.82,
+      ".txt": 1.68,
+      ".tab": 0.16,
+      ".xlt": 0.0
+    }
+  },
+  "samples": {
+    ".xls": [
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Toolroom Records/2022-H2 - Dombresky - Toolroom - Take Me Away (3-30-23).xls",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Toolroom Records/2022-H1 - Dombresky - Toolroom - Stronger (9-27-22).xls",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Toolroom Records/2022-H2 - Dombresky - Toolroom -Like This (3-29-23).xls",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Toolroom Records/2024-H1 - Dombresky - Toolroom (Do You Remember) (9-30-24).xls",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Toolroom Records/2022-H1 - Dombresky - Toolroom - Do You Remember (9-27-22).xls"
+    ],
+    ".csv": [
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/BUMA Writer/2025-08 - Avedon - BUMA.csv",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/BUMA Writer/2025-06 - Avedon - BUMA (6-30-25).csv",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/BUMA Writer/statement-distributions-export-2024-02-27 (3).csv",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/BUMA Writer/2019-06 - Avedon - BUMA.csv",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/BUMA Writer/statement-distributions-export-2021-01-30.csv"
+    ],
+    ".xlsx": [
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/TouchTunes/2022.03.31 TouchTunes - BETT.xlsx.xlsx",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/TouchTunes/2022.06.30 TouchTunes - BETT.xlsx.xlsx",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/UBC Publisher/2023_02_093_0000000016482_DEM.xlsx",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/UBC Publisher/2022_08_093_0000000008404_DEM.xlsx",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/UBC Publisher/2022_03_0000000000000_0000000005629_INT.xlsx"
+    ],
+    ".pdf": [
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Disney Music Group/1000566420_4018PAH_J. Rotem _ Cheetah Girls _ TCG - 4018PAH_June 2024.pdf",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Disney Music Group/10410-309_20230623_STATEMENT_REC_1000566420.pdf",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Disney Music Group/10112-206_20221223_STATEMENT_REC_1000566420.pdf",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Disney Music Group/100142-001AH_20230623_STATEMENT_REC_1000566420.pdf",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Disney Music Group/10112-206_20201225_STATEMENT_REC_1000566420.pdf"
+    ],
+    ".txt": [
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Warner Music Group/2025-H1 - Avedon - WMG  (Rico Nasty LP 1).txt",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Warner Music Group/2025-H1 - JID - WMG UK (Dua Lipa) (10-1-25).txt",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Warner Music Group/Statement_3880_049_5353_20241231.txt",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Warner Music Group/4571_202307_202309_4571_DTL.txt",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Warner Music Group/Statement_3880_048_5352_20240930.txt"
+    ],
+    ".tab": [
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Universal Music Publishing Group/2025-Q3 - Troye Sivan - UMPG (12-1-25).TAB",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/Universal Music Publishing Group/2025-Q4 - Aluna - UMPG detail.TAB"
+    ],
+    ".xlt": [
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/SoundExchange Artist/2017.02.28 - SoundExchange - Brothers Osborne.xlt",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/SoundExchange Artist/2017.10.31 - SoundExchange - Brothers Osborne.xlt",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/SoundExchange Artist/2017.03.31 - SoundExchange - Brothers Osborne.xlt",
+      "/workspace/training_data/extracted/Fast/TrainData/RYLTY/Organizer/Statement/SoundExchange Artist/2017.01.31 - SoundExchange - Brothers Osborne.xlt"
+    ]
+  }
+}

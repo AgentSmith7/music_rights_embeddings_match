@@ -64,6 +64,8 @@ logs/
 # Output files
 *.json
 !configs/*.json
+!eda_results.json
+!pubstrengholt_predictions.json
 
 # Jupyter
 .ipynb_checkpoints/

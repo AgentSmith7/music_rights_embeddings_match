@@ -37,6 +37,11 @@ env/
 .env
 .env.local
 
+# Credentials
+rclone.conf
+*.pem
+*.key
+
 # Qdrant data
 qdrant_data/
 *.qdrant

@@ -1,0 +1,44 @@
+file_path,file_name,predicted_class,confidence,margin,is_uncertain,strategy
+jadakiss/jadakiss/07-15-2024-Dom.csv,07-15-2024-Dom.csv,ASCAP Publisher,0.8947,0.8947,False,primary
+jadakiss/jadakiss/22370286_MAR2025_A_Details.csv,22370286_MAR2025_A_Details.csv,SoundExchange Artist,0.9014,0.9014,False,primary
+jadakiss/jadakiss/11-18-2024-Int.csv,11-18-2024-Int.csv,ASCAP Writer,0.8493,0.0824,False,fallback
+jadakiss/jadakiss/07-14-2025-Dom.csv,07-14-2025-Dom.csv,ASCAP Publisher,0.9037,0.9037,False,primary
+jadakiss/jadakiss/08-18-2025-Int.csv,08-18-2025-Int.csv,ASCAP Writer,0.8646,0.1238,False,fallback
+jadakiss/jadakiss/10-2023 DOM .csv,10-2023 DOM .csv,ASCAP Publisher,0.9021,0.9021,False,primary
+jadakiss/jadakiss/08-19-2024-Int.csv,08-19-2024-Int.csv,ASCAP Publisher,0.9005,0.1603,False,fallback
+jadakiss/jadakiss/2024JUN_1630843_1431199.xlsx,2024JUN_1630843_1431199.xlsx,PARSE_ERROR,0.0000,0.0000,True,none
+jadakiss/jadakiss/JAN 2026 DOM.csv,JAN 2026 DOM.csv,ASCAP Publisher,0.9098,0.9098,False,primary
+jadakiss/jadakiss/2024DEC_1630843_1431199.xlsx,2024DEC_1630843_1431199.xlsx,PARSE_ERROR,0.0000,0.0000,True,none
+jadakiss/jadakiss/01-13-2025-Dom.csv,01-13-2025-Dom.csv,ASCAP Publisher,0.8608,0.0805,False,fallback
+jadakiss/jadakiss/22370286_JUN2025_A_Details.csv,22370286_JUN2025_A_Details.csv,SoundExchange Artist,0.9052,0.1622,False,fallback
+jadakiss/jadakiss/22370286_SEP2023_A_Details.csv,22370286_SEP2023_A_Details.csv,SoundExchange Artist,0.9144,0.9144,False,primary
+jadakiss/jadakiss/02-20-2024-Int.csv,02-20-2024-Int.csv,ASCAP Publisher,0.8939,0.8939,False,primary
+jadakiss/jadakiss/2023DEC_1630843_1431199.xlsx,2023DEC_1630843_1431199.xlsx,PARSE_ERROR,0.0000,0.0000,True,none
+jadakiss/jadakiss/05-20-2024-Int.csv,05-20-2024-Int.csv,ASCAP Publisher,0.8923,0.1621,False,fallback
+jadakiss/jadakiss/10-14-2025-Dom.csv,10-14-2025-Dom.csv,ASCAP Publisher,0.9048,0.9048,False,primary
+jadakiss/jadakiss/22370286_SEP2024_A_Details.csv,22370286_SEP2024_A_Details.csv,SoundExchange Artist,0.9031,0.9031,False,primary
+jadakiss/jadakiss/2023JUN_1630843_1431199.xlsx,2023JUN_1630843_1431199.xlsx,PARSE_ERROR,0.0000,0.0000,True,none
+jadakiss/jadakiss/10-15-2024-Dom.csv,10-15-2024-Dom.csv,ASCAP Publisher,0.9059,0.9059,False,primary
+jadakiss/jadakiss/22370286_DEC2025_A_Details.csv,22370286_DEC2025_A_Details.csv,SoundExchange Artist,0.8990,0.8990,False,primary
+jadakiss/jadakiss/22370286_SEP2025_A_Details.csv,22370286_SEP2025_A_Details.csv,SoundExchange Artist,0.9129,0.1618,False,fallback
+jadakiss/jadakiss/2025JUN_1630843_1431199.xlsx,2025JUN_1630843_1431199.xlsx,PARSE_ERROR,0.0000,0.0000,True,none
+jadakiss/jadakiss/22370286_DEC2024_A_Details.csv,22370286_DEC2024_A_Details.csv,SoundExchange Artist,0.9011,0.9011,False,primary
+jadakiss/jadakiss/22370286_JUN2023_A_Details.csv,22370286_JUN2023_A_Details.csv,SoundExchange Artist,0.9089,0.9089,False,primary
+jadakiss/jadakiss/8-2023 INT .csv,8-2023 INT .csv,ASCAP Publisher,0.8663,0.1208,False,fallback
+jadakiss/jadakiss/22370286_DEC2023_A_Details.csv,22370286_DEC2023_A_Details.csv,SoundExchange Artist,0.9096,0.9096,False,primary
+jadakiss/jadakiss/22370286_JUN2024_A_Details.csv,22370286_JUN2024_A_Details.csv,SoundExchange Artist,0.9121,0.9121,False,primary
+jadakiss/jadakiss/04-15-2024-Dom.csv,04-15-2024-Dom.csv,ASCAP Publisher,0.9002,0.9002,False,primary
+jadakiss/jadakiss/04-14-2025-Dom.csv,04-14-2025-Dom.csv,ASCAP Publisher,0.8988,0.8988,False,primary
+jadakiss/jadakiss/11-17-2025-Int.csv,11-17-2025-Int.csv,ASCAP Writer,0.8289,0.0423,True,fallback
+jadakiss/jadakiss/02-18-2025-Int.csv,02-18-2025-Int.csv,ASCAP Publisher,0.8488,0.0788,False,fallback
+jadakiss/jadakiss/01-08-2024-Dom.csv,01-08-2024-Dom.csv,ASCAP Publisher,0.8984,0.8984,False,primary
+jadakiss/jadakiss/7-2023 DOM .csv,7-2023 DOM .csv,ASCAP Publisher,0.8993,0.8993,False,primary
+jadakiss/jadakiss/05-19-2025-Int.csv,05-19-2025-Int.csv,ASCAP Publisher,0.8759,0.1206,False,fallback
+jadakiss/jadakiss/22370286_MAR2023_A_Details.csv,22370286_MAR2023_A_Details.csv,SoundExchange Artist,0.8627,0.0807,False,fallback
+jadakiss/jadakiss/5-2023 INT .csv,5-2023 INT .csv,ASCAP Publisher,0.8922,0.1606,False,fallback
+jadakiss/jadakiss/4-2023 DOM .csv,4-2023 DOM .csv,ASCAP Publisher,0.8957,0.8957,False,primary
+jadakiss/jadakiss/2-2023 INT .csv,2-2023 INT .csv,ASCAP Publisher,0.8729,0.1217,False,fallback
+jadakiss/jadakiss/22370286_MAR2024_A_Details.csv,22370286_MAR2024_A_Details.csv,SoundExchange Artist,0.9043,0.9043,False,primary
+jadakiss/jadakiss/1-2023 DOM.csv,1-2023 DOM.csv,ASCAP Publisher,0.9014,0.9014,False,primary
+jadakiss/jadakiss/12-2023 DOM .csv,12-2023 DOM .csv,ASCAP Publisher,0.8409,0.0413,True,fallback
+jadakiss/jadakiss/11- 2023 INT .csv,11- 2023 INT .csv,ASCAP Publisher,0.8989,0.1609,False,fallback

@@ -1,0 +1,115 @@
+file_path,file_name,predicted_class,confidence,margin,is_uncertain,strategy
+michael-knox/michael-knox/1000029587_SEP2024_A_Summary.pdf,1000029587_SEP2024_A_Summary.pdf,SoundExchange Artist,0.9390,0.9390,False,primary
+michael-knox/michael-knox/1000029587_MAY2024_A_Details.csv,1000029587_MAY2024_A_Details.csv,SoundExchange Artist,0.9127,0.9127,False,primary
+michael-knox/michael-knox/1000029587_OCT2024_A_Details.csv,1000029587_OCT2024_A_Details.csv,SoundExchange Artist,0.9175,0.9175,False,primary
+michael-knox/michael-knox/1000029587_MAY2023_A_Summary.pdf,1000029587_MAY2023_A_Summary.pdf,SoundExchange Artist,0.9464,0.9464,False,primary
+michael-knox/michael-knox/1000029587_SEP2023_A_Details.csv,1000029587_SEP2023_A_Details.csv,SoundExchange Artist,0.9086,0.9086,False,primary
+michael-knox/michael-knox/1000029587_OCT2023_A_Summary.pdf,1000029587_OCT2023_A_Summary.pdf,SoundExchange Artist,0.9458,0.9458,False,primary
+michael-knox/michael-knox/1000029587_JAN2026_A_Details.csv,1000029587_JAN2026_A_Details.csv,SoundExchange Artist,0.9138,0.9138,False,primary
+michael-knox/michael-knox/1000029587_JUN2022_A_Summary.pdf,1000029587_JUN2022_A_Summary.pdf,SoundExchange Artist,0.9462,0.9462,False,primary
+michael-knox/michael-knox/1000029587_FEB2025_A_Details.csv,1000029587_FEB2025_A_Details.csv,SoundExchange Artist,0.9099,0.9099,False,primary
+michael-knox/michael-knox/1000029587_JAN2025_A_Summary.pdf,1000029587_JAN2025_A_Summary.pdf,SoundExchange Artist,0.9185,0.9185,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jan-Mar2024_75989_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Jan-Mar2024_75989_F_BMGM_P.pdf,BMG Publisher,0.7438,0.0813,False,fallback
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jul-Sep2022_74363_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Jul-Sep2022_74363_F_BMGM_P.csv,BMG Label,0.8744,0.1662,False,fallback
+michael-knox/michael-knox/1000029587_FEB2022_A_Summary.pdf,1000029587_FEB2022_A_Summary.pdf,SoundExchange Artist,0.9135,0.9135,False,primary
+michael-knox/michael-knox/1000029587_DEC2022_A_Details.csv,1000029587_DEC2022_A_Details.csv,SoundExchange Artist,0.9141,0.9141,False,primary
+michael-knox/michael-knox/1000029587_JAN2022_A_Details.csv,1000029587_JAN2022_A_Details.csv,SoundExchange Artist,0.9183,0.9183,False,primary
+michael-knox/michael-knox/1000029587_JUN2025_A_Details.csv,1000029587_JUN2025_A_Details.csv,SoundExchange Artist,0.9124,0.9124,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Oct-Dec2024_76669_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Oct-Dec2024_76669_F_BMGM_P.csv,BMG Label,0.8459,0.8459,False,primary
+michael-knox/michael-knox/1000029587_FEB2025_A_Summary.pdf,1000029587_FEB2025_A_Summary.pdf,SoundExchange Artist,0.9310,0.9310,False,primary
+michael-knox/michael-knox/1000029587_DEC2025_A_Details.csv,1000029587_DEC2025_A_Details.csv,SoundExchange Artist,0.9147,0.9147,False,primary
+michael-knox/michael-knox/1000029587_JAN2025_A_Details.csv,1000029587_JAN2025_A_Details.csv,SoundExchange Artist,0.9176,0.9176,False,primary
+michael-knox/michael-knox/1000029587_JUN2022_A_Details.csv,1000029587_JUN2022_A_Details.csv,SoundExchange Artist,0.9079,0.9079,False,primary
+michael-knox/michael-knox/1000029587_FEB2026_A_Details.csv,1000029587_FEB2026_A_Details.csv,SoundExchange Artist,0.9138,0.9138,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Oct-Dec2022_74663_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Oct-Dec2022_74663_F_BMGM_P.pdf,Smack Songs,0.7053,0.0223,True,fallback
+michael-knox/michael-knox/1000029587_FEB2022_A_Details.csv,1000029587_FEB2022_A_Details.csv,SoundExchange Artist,0.9092,0.9092,False,primary
+michael-knox/michael-knox/1000029587_JAN2022_A_Summary.pdf,1000029587_JAN2022_A_Summary.pdf,SoundExchange Artist,0.9264,0.9264,False,primary
+michael-knox/michael-knox/1000029587_DEC2022_A_Summary.pdf,1000029587_DEC2022_A_Summary.pdf,SoundExchange Artist,0.9503,0.9503,False,primary
+michael-knox/michael-knox/1000029587_MAY2024_A_Summary.pdf,1000029587_MAY2024_A_Summary.pdf,SoundExchange Artist,0.9439,0.9439,False,primary
+michael-knox/michael-knox/1000029587_SEP2024_A_Details.csv,1000029587_SEP2024_A_Details.csv,SoundExchange Artist,0.9179,0.9179,False,primary
+michael-knox/michael-knox/1000029587_OCT2024_A_Summary.pdf,1000029587_OCT2024_A_Summary.pdf,SoundExchange Artist,0.9399,0.9399,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jan-Mar2023_74956_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Jan-Mar2023_74956_F_BMGM_P.pdf,BMG Publisher,0.7346,0.0386,True,fallback
+michael-knox/michael-knox/1000029587_SEP2023_A_Summary.pdf,1000029587_SEP2023_A_Summary.pdf,SoundExchange Artist,0.9457,0.9457,False,primary
+michael-knox/michael-knox/1000029587_MAY2023_A_Details.csv,1000029587_MAY2023_A_Details.csv,SoundExchange Artist,0.9115,0.9115,False,primary
+michael-knox/michael-knox/1000029587_OCT2023_A_Details.csv,1000029587_OCT2023_A_Details.csv,SoundExchange Artist,0.9156,0.9156,False,primary
+michael-knox/michael-knox/1000029587_AUG2024_A_Details.csv,1000029587_AUG2024_A_Details.csv,SoundExchange Artist,0.9057,0.9057,False,primary
+michael-knox/michael-knox/1000029587_NOV2022_A_Summary.pdf,1000029587_NOV2022_A_Summary.pdf,SoundExchange Artist,0.9469,0.9469,False,primary
+michael-knox/michael-knox/1000029587_NOV2025_A_Details.csv,1000029587_NOV2025_A_Details.csv,SoundExchange Artist,0.9166,0.9166,False,primary
+michael-knox/michael-knox/1000029587_AUG2023_A_Summary.pdf,1000029587_AUG2023_A_Summary.pdf,SoundExchange Artist,0.9366,0.9366,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Oct-Dec2023_75711_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Oct-Dec2023_75711_F_BMGM_P.pdf,BMG Publisher,0.7513,0.0855,False,fallback
+michael-knox/michael-knox/1000029587_MAR2022_A_Summary.pdf,1000029587_MAR2022_A_Summary.pdf,SoundExchange Artist,0.9483,0.9483,False,primary
+michael-knox/michael-knox/1000029587_JUL2022_A_Summary.pdf,1000029587_JUL2022_A_Summary.pdf,SoundExchange Artist,0.9492,0.9492,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Apr-Jun2024_76230_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Apr-Jun2024_76230_F_BMGM_P.csv,BMG Label,0.8535,0.1632,False,fallback
+michael-knox/michael-knox/1000029587_APR2022_A_Summary.pdf,1000029587_APR2022_A_Summary.pdf,SoundExchange Artist,0.9483,0.9483,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Apr-Jun2025_77199_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Apr-Jun2025_77199_F_BMGM_P.csv,BMG Label,0.8462,0.1273,False,fallback
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jul-Sep2024_76477_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Jul-Sep2024_76477_F_BMGM_P.pdf,BMG Publisher,0.7683,0.1288,False,fallback
+michael-knox/michael-knox/1000029587_APR2025_A_Details.csv,1000029587_APR2025_A_Details.csv,SoundExchange Artist,0.9162,0.9162,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jan-Mar2025_76920_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Jan-Mar2025_76920_F_BMGM_P.csv,BMG Label,0.8472,0.8472,False,primary
+michael-knox/michael-knox/1000029587_JUL2025_A_Details.csv,1000029587_JUL2025_A_Details.csv,SoundExchange Artist,0.9127,0.9127,False,primary
+michael-knox/michael-knox/1000029587_MAR2025_A_Details.csv,1000029587_MAR2025_A_Details.csv,SoundExchange Artist,0.9111,0.9111,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Oct-Dec2025_77695_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Oct-Dec2025_77695_F_BMGM_P.csv,BMG Label,0.7538,0.0161,True,fallback
+michael-knox/michael-knox/1000029587_APR2022_A_Details.csv,1000029587_APR2022_A_Details.csv,SoundExchange Artist,0.9177,0.9177,False,primary
+michael-knox/michael-knox/1000029587_JUL2022_A_Details.csv,1000029587_JUL2022_A_Details.csv,SoundExchange Artist,0.9134,0.9134,False,primary
+michael-knox/michael-knox/1000029587_MAR2022_A_Details.csv,1000029587_MAR2022_A_Details.csv,SoundExchange Artist,0.9158,0.9158,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jul-Sep2023_75507_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Jul-Sep2023_75507_F_BMGM_P.pdf,BMG Publisher,0.7752,0.1285,False,fallback
+michael-knox/michael-knox/1000029587_MAR2025_A_Summary.pdf,1000029587_MAR2025_A_Summary.pdf,SoundExchange Artist,0.9455,0.9455,False,primary
+michael-knox/michael-knox/1000029587_NOV2022_A_Details.csv,1000029587_NOV2022_A_Details.csv,SoundExchange Artist,0.9132,0.9132,False,primary
+michael-knox/michael-knox/1000029587_AUG2024_A_Summary.pdf,1000029587_AUG2024_A_Summary.pdf,SoundExchange Artist,0.9397,0.9397,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Apr-Jun2023_75217_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Apr-Jun2023_75217_F_BMGM_P.pdf,BMG Publisher,0.7119,0.0234,True,fallback
+michael-knox/michael-knox/1000029587_AUG2023_A_Details.csv,1000029587_AUG2023_A_Details.csv,SoundExchange Artist,0.9110,0.9110,False,primary
+michael-knox/michael-knox/1000029587_APR2024_A_Summary.pdf,1000029587_APR2024_A_Summary.pdf,SoundExchange Artist,0.9343,0.9343,False,primary
+michael-knox/michael-knox/1000029587_MAR2024_A_Summary.pdf,1000029587_MAR2024_A_Summary.pdf,SoundExchange Artist,0.9428,0.9428,False,primary
+michael-knox/michael-knox/1000029587_JUL2024_A_Summary.pdf,1000029587_JUL2024_A_Summary.pdf,SoundExchange Artist,0.9432,0.9432,False,primary
+michael-knox/michael-knox/1000029587_JUL2023_A_Details.csv,1000029587_JUL2023_A_Details.csv,SoundExchange Artist,0.9030,0.9030,False,primary
+michael-knox/michael-knox/1000029587_MAR2023_A_Details.csv,1000029587_MAR2023_A_Details.csv,SoundExchange Artist,0.9185,0.9185,False,primary
+michael-knox/michael-knox/1000029587_APR2023_A_Details.csv,1000029587_APR2023_A_Details.csv,SoundExchange Artist,0.9162,0.9162,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Oct-Dec2023_75711_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Oct-Dec2023_75711_F_BMGM_P.csv,BMG Label,0.8536,0.8536,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jul-Sep2025_77449_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Jul-Sep2025_77449_F_BMGM_P.csv,BMG Label,0.7616,0.0022,True,fallback
+michael-knox/michael-knox/1000029587_NOV2024_A_Summary.pdf,1000029587_NOV2024_A_Summary.pdf,SoundExchange Artist,0.9372,0.9372,False,primary
+michael-knox/michael-knox/1000029587_AUG2022_A_Details.csv,1000029587_AUG2022_A_Details.csv,SoundExchange Artist,0.9087,0.9087,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Apr-Jun2024_76230_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Apr-Jun2024_76230_F_BMGM_P.pdf,BMG Publisher,0.7189,0.0660,False,fallback
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jul-Sep2024_76477_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Jul-Sep2024_76477_F_BMGM_P.csv,BMG Label,0.8455,0.8455,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jan-Mar2025_76920_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Jan-Mar2025_76920_F_BMGM_P.pdf,BMG Publisher,0.7414,0.0808,False,fallback
+michael-knox/michael-knox/1000029587_NOV2023_A_Details.csv,1000029587_NOV2023_A_Details.csv,SoundExchange Artist,0.9141,0.9141,False,primary
+michael-knox/michael-knox/1000029587_AUG2022_A_Summary.pdf,1000029587_AUG2022_A_Summary.pdf,SoundExchange Artist,0.9414,0.9414,False,primary
+michael-knox/michael-knox/1000029587_NOV2024_A_Details.csv,1000029587_NOV2024_A_Details.csv,SoundExchange Artist,0.9116,0.9116,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jul-Sep2023_75507_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Jul-Sep2023_75507_F_BMGM_P.csv,BMG Label,0.8560,0.1640,False,fallback
+michael-knox/michael-knox/1000029587_NOV2023_A_Summary.pdf,1000029587_NOV2023_A_Summary.pdf,SoundExchange Artist,0.9438,0.9438,False,primary
+michael-knox/michael-knox/1000029587_AUG2025_A_Details.csv,1000029587_AUG2025_A_Details.csv,SoundExchange Artist,0.9070,0.9070,False,primary
+michael-knox/michael-knox/1000029587_JUL2024_A_Details.csv,1000029587_JUL2024_A_Details.csv,SoundExchange Artist,0.9148,0.9148,False,primary
+michael-knox/michael-knox/1000029587_MAR2024_A_Details.csv,1000029587_MAR2024_A_Details.csv,SoundExchange Artist,0.9178,0.9178,False,primary
+michael-knox/michael-knox/1000029587_APR2024_A_Details.csv,1000029587_APR2024_A_Details.csv,SoundExchange Artist,0.9152,0.9152,False,primary
+michael-knox/michael-knox/1000029587_APR2023_A_Summary.pdf,1000029587_APR2023_A_Summary.pdf,SoundExchange Artist,0.9467,0.9467,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Apr-Jun2023_75217_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Apr-Jun2023_75217_F_BMGM_P.csv,BMG Label,0.8428,0.8428,False,primary
+michael-knox/michael-knox/1000029587_MAR2023_A_Summary.pdf,1000029587_MAR2023_A_Summary.pdf,SoundExchange Artist,0.9356,0.9356,False,primary
+michael-knox/michael-knox/1000029587_JUL2023_A_Summary.pdf,1000029587_JUL2023_A_Summary.pdf,SoundExchange Artist,0.9476,0.9476,False,primary
+michael-knox/michael-knox/1000029587_JAN2023_A_Summary.pdf,1000029587_JAN2023_A_Summary.pdf,SoundExchange Artist,0.9105,0.9105,False,primary
+michael-knox/michael-knox/1000029587_DEC2023_A_Summary.pdf,1000029587_DEC2023_A_Summary.pdf,SoundExchange Artist,0.9471,0.9471,False,primary
+michael-knox/michael-knox/1000029587_FEB2023_A_Details.csv,1000029587_FEB2023_A_Details.csv,SoundExchange Artist,0.9051,0.9051,False,primary
+michael-knox/michael-knox/1000029587_JUN2024_A_Summary.pdf,1000029587_JUN2024_A_Summary.pdf,SoundExchange Artist,0.9392,0.9392,False,primary
+michael-knox/michael-knox/1000029587_JUN2023_A_Details.csv,1000029587_JUN2023_A_Details.csv,SoundExchange Artist,0.9061,0.9061,False,primary
+michael-knox/michael-knox/1000029587_DEC2024_A_Details.csv,1000029587_DEC2024_A_Details.csv,SoundExchange Artist,0.9129,0.9129,False,primary
+michael-knox/michael-knox/1000029587_JAN2024_A_Details.csv,1000029587_JAN2024_A_Details.csv,SoundExchange Artist,0.9142,0.9142,False,primary
+michael-knox/michael-knox/1000029587_FEB2024_A_Summary.pdf,1000029587_FEB2024_A_Summary.pdf,SoundExchange Artist,0.9308,0.9308,False,primary
+michael-knox/michael-knox/1000029587_OCT2022_A_Details.csv,1000029587_OCT2022_A_Details.csv,SoundExchange Artist,0.9089,0.9089,False,primary
+michael-knox/michael-knox/1000029587_SEP2022_A_Summary.pdf,1000029587_SEP2022_A_Summary.pdf,SoundExchange Artist,0.9472,0.9472,False,primary
+michael-knox/michael-knox/1000029587_MAY2022_A_Details.csv,1000029587_MAY2022_A_Details.csv,SoundExchange Artist,0.9154,0.9154,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jan-Mar2024_75989_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Jan-Mar2024_75989_F_BMGM_P.csv,BMG Label,0.8496,0.1636,False,fallback
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jul-Sep2022_74363_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Jul-Sep2022_74363_F_BMGM_P.pdf,Smack Songs,0.7037,0.0049,True,fallback
+michael-knox/michael-knox/1000029587_SEP2025_A_Details.csv,1000029587_SEP2025_A_Details.csv,SoundExchange Artist,0.9113,0.9113,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Oct-Dec2024_76669_F_BMGM_P.pdf,40211_Michael Knox - Main Payee_Oct-Dec2024_76669_F_BMGM_P.pdf,BMG Publisher,0.7450,0.0834,False,fallback
+michael-knox/michael-knox/1000029587_OCT2022_A_Summary.pdf,1000029587_OCT2022_A_Summary.pdf,SoundExchange Artist,0.9484,0.9484,False,primary
+michael-knox/michael-knox/1000029587_MAY2022_A_Summary.pdf,1000029587_MAY2022_A_Summary.pdf,SoundExchange Artist,0.9477,0.9477,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Oct-Dec2022_74663_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Oct-Dec2022_74663_F_BMGM_P.csv,BMG Label,0.8406,0.1293,False,fallback
+michael-knox/michael-knox/1000029587_SEP2022_A_Details.csv,1000029587_SEP2022_A_Details.csv,SoundExchange Artist,0.9135,0.9135,False,primary
+michael-knox/michael-knox/1000029587_OCT2025_A_Details.csv,1000029587_OCT2025_A_Details.csv,SoundExchange Artist,0.9168,0.9168,False,primary
+michael-knox/michael-knox/1000029587_MAY2025_A_Details.csv,1000029587_MAY2025_A_Details.csv,SoundExchange Artist,0.9077,0.9077,False,primary
+michael-knox/michael-knox/1000029587_JUN2024_A_Details.csv,1000029587_JUN2024_A_Details.csv,SoundExchange Artist,0.9122,0.9122,False,primary
+michael-knox/michael-knox/40211_Michael Knox - Main Payee_Jan-Mar2023_74956_F_BMGM_P.csv,40211_Michael Knox - Main Payee_Jan-Mar2023_74956_F_BMGM_P.csv,BMG Label,0.8091,0.0863,False,fallback
+michael-knox/michael-knox/1000029587_DEC2023_A_Details.csv,1000029587_DEC2023_A_Details.csv,SoundExchange Artist,0.9126,0.9126,False,primary
+michael-knox/michael-knox/1000029587_JAN2023_A_Details.csv,1000029587_JAN2023_A_Details.csv,SoundExchange Artist,0.9130,0.9130,False,primary
+michael-knox/michael-knox/1000029587_FEB2023_A_Summary.pdf,1000029587_FEB2023_A_Summary.pdf,SoundExchange Artist,0.9227,0.9227,False,primary
+michael-knox/michael-knox/1000029587_JAN2024_A_Summary.pdf,1000029587_JAN2024_A_Summary.pdf,SoundExchange Artist,0.9344,0.9344,False,primary
+michael-knox/michael-knox/1000029587_DEC2024_A_Summary.pdf,1000029587_DEC2024_A_Summary.pdf,SoundExchange Artist,0.9442,0.9442,False,primary
+michael-knox/michael-knox/1000029587_FEB2024_A_Details.csv,1000029587_FEB2024_A_Details.csv,SoundExchange Artist,0.9118,0.9118,False,primary
+michael-knox/michael-knox/1000029587_JUN2023_A_Summary.pdf,1000029587_JUN2023_A_Summary.pdf,SoundExchange Artist,0.9460,0.9460,False,primary
